@@ -1,0 +1,3146 @@
+doi,json
+10.5281/zenodo.2565959,"{{
+  ""files"": [
+    {
+      ""links"": {
+        ""self"": ""https://zenodo.org/api/files/525a5ff6-7f81-402a-9173-c8be8cf953c7/8.pdf""
+      }, 
+      ""checksum"": ""md5:563a9aa45f04ae8d442c708e506d0bae"", 
+      ""bucket"": ""525a5ff6-7f81-402a-9173-c8be8cf953c7"", 
+      ""key"": ""8.pdf"", 
+      ""type"": ""pdf"", 
+      ""size"": 3348590
+    }
+  ], 
+  ""owners"": [
+    42770
+  ], 
+  ""doi"": ""10.5281/zenodo.2565959"", 
+  ""stats"": {
+    ""version_unique_downloads"": 75.0, 
+    ""unique_views"": 93.0, 
+    ""views"": 104.0, 
+    ""downloads"": 46.0, 
+    ""unique_downloads"": 45.0, 
+    ""version_unique_views"": 148.0, 
+    ""volume"": 154035140.0, 
+    ""version_downloads"": 83.0, 
+    ""version_views"": 169.0, 
+    ""version_volume"": 277812757.0
+  }, 
+  ""links"": {
+    ""doi"": ""https://doi.org/10.5281/zenodo.2565959"", 
+    ""conceptdoi"": ""https://doi.org/10.5281/zenodo.1954232"", 
+    ""bucket"": ""https://zenodo.org/api/files/525a5ff6-7f81-402a-9173-c8be8cf953c7"", 
+    ""conceptbadge"": ""https://zenodo.org/badge/doi/10.5281/zenodo.1954232.svg"", 
+    ""html"": ""https://zenodo.org/record/2565959"", 
+    ""latest_html"": ""https://zenodo.org/record/2565959"", 
+    ""badge"": ""https://zenodo.org/badge/doi/10.5281/zenodo.2565959.svg"", 
+    ""latest"": ""https://zenodo.org/api/records/2565959""
+  }, 
+  ""conceptdoi"": ""10.5281/zenodo.1954232"", 
+  ""created"": ""2019-02-15T11:20:42.170913+00:00"", 
+  ""updated"": ""2019-04-15T01:03:22.374339+00:00"", 
+  ""conceptrecid"": ""1954232"", 
+  ""revision"": 4, 
+  ""id"": 2565959, 
+  ""metadata"": {
+    ""access_right_category"": ""success"", 
+    ""doi"": ""10.5281/zenodo.2565959"", 
+    ""description"": ""<p>This paper proposes a theory of pricing consistent with two well-documented patterns: customers care about fairness, and firms take these concerns into account when they set prices. The theory assumes that customers find a price unfair when it carries a high markup over cost, and that customers dislike unfair prices. Since markups are not observable, customers must extract them from prices. The theory assumes that customers infer less than rationally: when a price rises after an increase in marginal cost, customers partially misattribute the higher price to a higher markup&mdash;which they find unfair. Firms anticipate this response and trim their price increases, which reduces the passthrough of marginal costs into prices below one: prices are somewhat rigid. Embedded in a New Keynesian model&mdash;as a replacement of Calvo pricing&mdash;our theory produces monetary nonneutrality. When monetary policy loosens and inflation rises, customers misperceive markups as higher and feel unfairly treated; firms mitigate the perceived unfairness of prices by reducing their markups, which in general equilibrium leads to higher output.</p>"", 
+    ""license"": {
+      ""id"": ""CC-BY-4.0""
+    }, 
+    ""title"": ""Pricing under Fairness Concerns"", 
+    ""relations"": {
+      ""version"": [
+        {
+          ""count"": 2, 
+          ""index"": 1, 
+          ""parent"": {
+            ""pid_type"": ""recid"", 
+            ""pid_value"": ""1954232""
+          }, 
+          ""is_last"": true, 
+          ""last_child"": {
+            ""pid_type"": ""recid"", 
+            ""pid_value"": ""2565959""
+          }
+        }
+      ]
+    }, 
+    ""communities"": [
+      {
+        ""id"": ""economics""
+      }
+    ], 
+    ""publication_date"": ""2019-02-14"", 
+    ""creators"": [
+      {
+        ""affiliation"": ""London School of Economics"", 
+        ""name"": ""Eyster, Erik""
+      }, 
+      {
+        ""affiliation"": ""London School of Economics"", 
+        ""name"": ""Madarasz, Kristof""
+      }, 
+      {
+        ""orcid"": ""0000-0003-2381-7470"", 
+        ""affiliation"": ""Brown University"", 
+        ""name"": ""Michaillat, Pascal""
+      }
+    ], 
+    ""access_right"": ""open"", 
+    ""resource_type"": {
+      ""subtype"": ""workingpaper"", 
+      ""type"": ""publication"", 
+      ""title"": ""Working paper""
+    }, 
+    ""related_identifiers"": [
+      {
+        ""scheme"": ""url"", 
+        ""relation"": ""isPreviousVersionOf"", 
+        ""identifier"": ""https://arxiv.org/abs/1904.05656""
+      }, 
+      {
+        ""scheme"": ""doi"", 
+        ""relation"": ""isVersionOf"", 
+        ""identifier"": ""10.5281/zenodo.1954232""
+      }
+    ]
+  }
+}"
+10.5281/zenodo.1478567,"{
+  ""files"": [
+    {
+      ""links"": {
+        ""self"": ""https://zenodo.org/api/files/13daf2db-9ad4-498f-a562-5f7b497da878/10.pdf""
+      }, 
+      ""checksum"": ""md5:4cef9941a607379d8c83052ca569aca6"", 
+      ""bucket"": ""13daf2db-9ad4-498f-a562-5f7b497da878"", 
+      ""key"": ""10.pdf"", 
+      ""type"": ""pdf"", 
+      ""size"": 381450
+    }
+  ], 
+  ""owners"": [
+    42770
+  ], 
+  ""doi"": ""10.5281/zenodo.1478567"", 
+  ""stats"": {
+    ""version_unique_downloads"": 212.0, 
+    ""unique_views"": 126.0, 
+    ""views"": 142.0, 
+    ""downloads"": 78.0, 
+    ""unique_downloads"": 76.0, 
+    ""version_unique_views"": 347.0, 
+    ""volume"": 29753100.0, 
+    ""version_downloads"": 239.0, 
+    ""version_views"": 408.0, 
+    ""version_volume"": 101578168.0
+  }, 
+  ""links"": {
+    ""doi"": ""https://doi.org/10.5281/zenodo.1478567"", 
+    ""conceptdoi"": ""https://doi.org/10.5281/zenodo.1186979"", 
+    ""bucket"": ""https://zenodo.org/api/files/13daf2db-9ad4-498f-a562-5f7b497da878"", 
+    ""conceptbadge"": ""https://zenodo.org/badge/doi/10.5281/zenodo.1186979.svg"", 
+    ""html"": ""https://zenodo.org/record/1478567"", 
+    ""latest_html"": ""https://zenodo.org/record/1478567"", 
+    ""badge"": ""https://zenodo.org/badge/doi/10.5281/zenodo.1478567.svg"", 
+    ""latest"": ""https://zenodo.org/api/records/1478567""
+  }, 
+  ""conceptdoi"": ""10.5281/zenodo.1186979"", 
+  ""created"": ""2018-11-06T11:42:07.362352+00:00"", 
+  ""updated"": ""2019-04-27T13:16:14.397626+00:00"", 
+  ""conceptrecid"": ""1186979"", 
+  ""revision"": 8, 
+  ""id"": 1478567, 
+  ""metadata"": {
+    ""access_right_category"": ""success"", 
+    ""doi"": ""10.5281/zenodo.1478567"", 
+    ""description"": ""<p><strong>abstract:</strong> We develop a model describing how false paradigms may persist, hindering scientific progress. The model features two paradigms, one describing reality better than the other. Tenured scientists display homophily: they favor tenure candidates who adhere to their paradigm. As in statistics, power is the probability (absent any bias) of denying tenure to scientists adhering to the false paradigm. The model shows that because of homophily, when power is low, the false paradigm may prevail. Then only an increase in power can ignite convergence to the true paradigm. Historical case studies suggest that low power comes either from lack of empirical evidence, or from reluctance to base tenure decisions on available evidence.</p>\n\n<p>&nbsp;</p>\n\n<p><strong>significance statement:</strong> It is believed that a lack of experimental evidence (typical in the social sciences) slows but does not prevent the adoption of true theories. We evaluate this belief using a model of scientific research and promotion in which tenured scientists are slightly biased toward tenure candidates with similar beliefs. We find that when a science lacks evidence to discriminate between theories, or when tenure decisions do not rely on available evidence, true theories may not be adopted. The nonadoption of heliocentric theory in the 16th century, the persistence of bloodletting in the 19th century, the nonadoption of underconsumption theory in the early 20th century, and the persistence of radical mastectomy in the 20th century illustrate such risk.</p>"", 
+    ""license"": {
+      ""id"": ""CC-BY-4.0""
+    }, 
+    ""title"": ""Persistence of False Paradigms in Low-Power Sciences"", 
+    ""journal"": {
+      ""volume"": ""115 (52)"", 
+      ""pages"": ""13228-13233"", 
+      ""title"": ""Proceedings of the National Academy of Sciences""
+    }, 
+    ""relations"": {
+      ""version"": [
+        {
+          ""count"": 3, 
+          ""index"": 2, 
+          ""parent"": {
+            ""pid_type"": ""recid"", 
+            ""pid_value"": ""1186979""
+          }, 
+          ""is_last"": true, 
+          ""last_child"": {
+            ""pid_type"": ""recid"", 
+            ""pid_value"": ""1478567""
+          }
+        }
+      ]
+    }, 
+    ""communities"": [
+      {
+        ""id"": ""economics""
+      }
+    ], 
+    ""publication_date"": ""2018-12-26"", 
+    ""creators"": [
+      {
+        ""affiliation"": ""Georgetown University"", 
+        ""name"": ""Akerlof, George A.""
+      }, 
+      {
+        ""orcid"": ""0000-0003-2381-7470"", 
+        ""affiliation"": ""Brown University"", 
+        ""name"": ""Michaillat, Pascal""
+      }
+    ], 
+    ""access_right"": ""open"", 
+    ""resource_type"": {
+      ""subtype"": ""article"", 
+      ""type"": ""publication"", 
+      ""title"": ""Journal article""
+    }, 
+    ""related_identifiers"": [
+      {
+        ""scheme"": ""doi"", 
+        ""relation"": ""isPreviousVersionOf"", 
+        ""identifier"": ""10.1073/pnas.1816454115""
+      }, 
+      {
+        ""scheme"": ""doi"", 
+        ""relation"": ""isVersionOf"", 
+        ""identifier"": ""10.5281/zenodo.1186979""
+      }
+    ]
+  }
+}"
+10.5281/zenodo.1418386,"{
+  ""files"": [
+    {
+      ""links"": {
+        ""self"": ""https://zenodo.org/api/files/a20a92d0-3534-45ba-b83a-7d45a8c7ee75/Evolution%20and%20status%20of%20the%20EFTA%20_%20a%20future%20possibility%20for%20the%20UK%20after%20Brexit%20_.pdf""
+      }, 
+      ""checksum"": ""md5:4d8add4bcdfc378732293b38be2f7e29"", 
+      ""bucket"": ""a20a92d0-3534-45ba-b83a-7d45a8c7ee75"", 
+      ""key"": ""Evolution and status of the EFTA _ a future possibility for the UK after Brexit _.pdf"", 
+      ""type"": ""pdf"", 
+      ""size"": 1249087
+    }
+  ], 
+  ""owners"": [
+    48427
+  ], 
+  ""doi"": ""10.5281/zenodo.1418386"", 
+  ""stats"": {
+    ""version_unique_downloads"": 82.0, 
+    ""unique_views"": 154.0, 
+    ""views"": 164.0, 
+    ""downloads"": 85.0, 
+    ""unique_downloads"": 82.0, 
+    ""version_unique_views"": 154.0, 
+    ""volume"": 106172395.0, 
+    ""version_downloads"": 85.0, 
+    ""version_views"": 164.0, 
+    ""version_volume"": 106172395.0
+  }, 
+  ""links"": {
+    ""doi"": ""https://doi.org/10.5281/zenodo.1418386"", 
+    ""conceptdoi"": ""https://doi.org/10.5281/zenodo.1418385"", 
+    ""bucket"": ""https://zenodo.org/api/files/a20a92d0-3534-45ba-b83a-7d45a8c7ee75"", 
+    ""conceptbadge"": ""https://zenodo.org/badge/doi/10.5281/zenodo.1418385.svg"", 
+    ""html"": ""https://zenodo.org/record/1418386"", 
+    ""latest_html"": ""https://zenodo.org/record/1418386"", 
+    ""badge"": ""https://zenodo.org/badge/doi/10.5281/zenodo.1418386.svg"", 
+    ""latest"": ""https://zenodo.org/api/records/1418386""
+  }, 
+  ""conceptdoi"": ""10.5281/zenodo.1418385"", 
+  ""created"": ""2018-09-18T15:56:46.711700+00:00"", 
+  ""updated"": ""2019-04-09T14:12:41.363070+00:00"", 
+  ""conceptrecid"": ""1418385"", 
+  ""revision"": 6, 
+  ""id"": 1418386, 
+  ""metadata"": {
+    ""access_right_category"": ""success"", 
+    ""doi"": ""10.5281/zenodo.1418386"", 
+    ""description"": ""<p>The European Free Trade Association (EFTA) plays a key role in the global and European trade. This presentation&nbsp;proposes the analysis of its past, its present and its future perspectives. After revising its origins, its foundational incentives and its legal-economic and organisational basic elements, an analysis based on current commercial indicators is performed. Finally, a discussion is proposed about the potential reincorporation of the United Kingdom to the EFTA space after Brexit&nbsp;and the main answers provided by the research are collected.</p>"", 
+    ""license"": {
+      ""id"": ""CC-BY-4.0""
+    }, 
+    ""title"": ""Evolution and status of the EFTA: a future possibility for the UK after Brexit?"", 
+    ""language"": ""eng"", 
+    ""notes"": ""JEL classification: F13, F53, N74."", 
+    ""relations"": {
+      ""version"": [
+        {
+          ""count"": 1, 
+          ""index"": 0, 
+          ""parent"": {
+            ""pid_type"": ""recid"", 
+            ""pid_value"": ""1418385""
+          }, 
+          ""is_last"": true, 
+          ""last_child"": {
+            ""pid_type"": ""recid"", 
+            ""pid_value"": ""1418386""
+          }
+        }
+      ]
+    }, 
+    ""communities"": [
+      {
+        ""id"": ""economics""
+      }
+    ], 
+    ""keywords"": [
+      ""European Free Trade Association"", 
+      ""European integration"", 
+      ""Trade"", 
+      ""United Kingdom""
+    ], 
+    ""publication_date"": ""2018-06-20"", 
+    ""creators"": [
+      {
+        ""orcid"": ""0000-0003-2572-1966"", 
+        ""affiliation"": ""MRes Student in Economics at UNED"", 
+        ""name"": ""Garc\u00eda-Garc\u00eda, Pablo""
+      }
+    ], 
+    ""access_right"": ""open"", 
+    ""resource_type"": {
+      ""type"": ""presentation"", 
+      ""title"": ""Presentation""
+    }, 
+    ""related_identifiers"": [
+      {
+        ""scheme"": ""doi"", 
+        ""relation"": ""isVersionOf"", 
+        ""identifier"": ""10.5281/zenodo.1418385""
+      }
+    ]
+  }
+}"
+10.5281/zenodo.1345693,"{
+  ""files"": [
+    {
+      ""links"": {
+        ""self"": ""https://zenodo.org/api/files/1efc6336-8402-423c-baf0-0e14ecdbdc36/Garc%C3%ADaGarc%C3%ADaPablo_MResEcon_Master%27sThesis.pdf""
+      }, 
+      ""checksum"": ""md5:c99ad22d09ebce5f7f46cc0d541fc0e1"", 
+      ""bucket"": ""1efc6336-8402-423c-baf0-0e14ecdbdc36"", 
+      ""key"": ""Garc\u00edaGarc\u00edaPablo_MResEcon_Master'sThesis.pdf"", 
+      ""type"": ""pdf"", 
+      ""size"": 1850019
+    }
+  ], 
+  ""owners"": [
+    48427
+  ], 
+  ""doi"": ""10.5281/zenodo.1345693"", 
+  ""stats"": {
+    ""version_unique_downloads"": 84.0, 
+    ""unique_views"": 174.0, 
+    ""views"": 186.0, 
+    ""downloads"": 92.0, 
+    ""unique_downloads"": 84.0, 
+    ""version_unique_views"": 174.0, 
+    ""volume"": 170201748.0, 
+    ""version_downloads"": 92.0, 
+    ""version_views"": 186.0, 
+    ""version_volume"": 170201748.0
+  }, 
+  ""links"": {
+    ""doi"": ""https://doi.org/10.5281/zenodo.1345693"", 
+    ""conceptdoi"": ""https://doi.org/10.5281/zenodo.1345692"", 
+    ""bucket"": ""https://zenodo.org/api/files/1efc6336-8402-423c-baf0-0e14ecdbdc36"", 
+    ""conceptbadge"": ""https://zenodo.org/badge/doi/10.5281/zenodo.1345692.svg"", 
+    ""html"": ""https://zenodo.org/record/1345693"", 
+    ""latest_html"": ""https://zenodo.org/record/1345693"", 
+    ""badge"": ""https://zenodo.org/badge/doi/10.5281/zenodo.1345693.svg"", 
+    ""latest"": ""https://zenodo.org/api/records/1345693""
+  }, 
+  ""conceptdoi"": ""10.5281/zenodo.1345692"", 
+  ""created"": ""2018-09-02T09:08:19.473629+00:00"", 
+  ""updated"": ""2019-04-09T14:09:21.025560+00:00"", 
+  ""conceptrecid"": ""1345692"", 
+  ""revision"": 6, 
+  ""id"": 1345693, 
+  ""metadata"": {
+    ""access_right_category"": ""success"", 
+    ""doi"": ""10.5281/zenodo.1345693"", 
+    ""description"": ""<p>Este trabajo analiza la seguridad de abastecimiento energ&eacute;tico de la Uni&oacute;n Europea desde una perspectiva transversal y dimensional. En primer lugar, se revisa la literatura acad&eacute;mica referente a la seguridad energ&eacute;tica europea, as&iacute; como las alusiones realizadas en los sucesivos Tratados de la Uni&oacute;n, con el fin de delimitar el concepto objeto de an&aacute;lisis. A continuaci&oacute;n, se practica un an&aacute;lisis con una combinaci&oacute;n de t&eacute;cnicas cualitativas y cuantitativas para detectar la situaci&oacute;n actual y la posible evoluci&oacute;n futura de la seguridad de suministro. En esta fase anal&iacute;tica, se a&ntilde;aden elementos que no suelen tenerse en cuenta en otras investigaciones afines, como los condicionantes socioecon&oacute;micos y medioambientales. Finalmente, se recogen las principales medidas pol&iacute;ticas propuestas para incrementar la seguridad en los diferentes horizontes temporales, prestando especial atenci&oacute;n a la construcci&oacute;n de la Uni&oacute;n de la Energ&iacute;a.</p>"", 
+    ""license"": {
+      ""id"": ""CC-BY-4.0""
+    }, 
+    ""title"": ""An\u00e1lisis transversal de las dimensiones de la seguridad energ\u00e9tica europea: \u00bfhacia una Uni\u00f3n de la Energ\u00eda?"", 
+    ""language"": ""spa"", 
+    ""notes"": ""Clasificaci\u00f3n JEL: F5, Q48."", 
+    ""relations"": {
+      ""version"": [
+        {
+          ""count"": 1, 
+          ""index"": 0, 
+          ""parent"": {
+            ""pid_type"": ""recid"", 
+            ""pid_value"": ""1345692""
+          }, 
+          ""is_last"": true, 
+          ""last_child"": {
+            ""pid_type"": ""recid"", 
+            ""pid_value"": ""1345693""
+          }
+        }
+      ]
+    }, 
+    ""communities"": [
+      {
+        ""id"": ""economics""
+      }
+    ], 
+    ""references"": [
+      ""Ackermann, T., Andersson, G., & S\u00f6der, L. (2001). Distributed Generation\u202f: A Definition. Electric Power Systems Research, 57, 195\u2013204. http://doi.org/10.1016/S0378-7796(01)00101-8"", 
+      ""Acta \u00danica Europea. Acta \u00danica Europea (1986). Luxemburgo: EUR-Lex."", 
+      ""Adger, W. N., Quinn, T., Lorenzoni, I., Murphy, C., & Sweeney, J. (2012). Changing social contracts in climate-change adaptation. Nature Climate Change, 3, 330.  http://dx.doi.org/10.1038/nclimate1751"", 
+      ""Agencia Internacional de la Energ\u00eda. (2007). Energy Security and Climate Policy: Assessing Interactions. Par\u00eds.  https://www.iea.org/publications/freepublications/publication/energy_security_climate_policy.pdf"", 
+      ""Agencia Internacional de la Energ\u00eda. (2017). World Energy Outlook. Par\u00eds.  http://www.iea.org/bookshop/750-World_Energy_Outlook_2017"", 
+      ""Agencia Internacional de la Energ\u00eda, & Nordic Energy Research. (2016). Nordic Energy Technology Perspectives. Energy Technology Policy Division. http://doi.org/10.1787/9789264257665-en"", 
+      ""Altvater, E. (2007). Public goods for human security. Papeles Del Este, 14, 1\u201319.  http://revistas.ucm.es/index.php/PAPE/article/viewFile/PAPE0707220001A/25673"", 
+      ""Andoura, S., Hancher, L., & Van der Woude, M. (2010). Towards a European Energy Community: A Policy Proposal. Studies and Research 76. Par\u00eds.  http://www.delorsinstitute.eu/011-2155-Towards-a-European-Energy-Community-A-Policy-Proposal.html%5Cnhttp://www.delorsinstitut.de/"", 
+      ""Austvik, O. G. (2016). The Energy Union and security-of-gas supply. Energy Policy, 96, 372\u2013382. http://doi.org/10.1016/j.enpol.2016.06.013"", 
+      ""Banco Mundial. (2016). Political Stability and Absence of Violence/Terrorism. http://info.worldbank.org/governance/wgi/#reports"", 
+      ""BP Statistical Review of World Energy. (2017). BP Statistical Review of World Energy June 2017. Londres: BP Distribution Services.  https://www.bp.com/content/dam/bp/en/corporate/pdf/energy-economics/statistical-review-2017/bp-statistical-review-of-world-energy-2017-full-report.pdf"", 
+      ""Bronk, C. (2014). Hacks on gas: Energy, Cybersecurity, and U.S. Defense. Houston.  https://scholarship.rice.edu/bitstream/handle/1911/91294/Pub-IT-HacksonGas-020514.pdf?sequence=1&isAllowed=y"", 
+      ""Center for Environmental Law & Policy. (2018). Environmental Performance Index. https://epi.envirocenter.yale.edu/"", 
+      ""Checchi, A., Behrens, A., & Egenhofer, C. (2009). Long-Term Energy Security Risks for Europe: A sector-Specific Approach (No. 309). Bruselas.  http://www.ceps.eu/system/files/book/1785.pdf"", 
+      ""Cherp, A., & Jewell, J. (2011). The three perspectives on energy security: intellectual history, disciplinary roots and the potential for integration. Current Opinion in Environmental Sustainability, 3(4), 209. http://doi.org/10.1016/j.cosust.2011.07.001"", 
+      ""Chester, L. (2010). Conceptualizing energy security and making explicit its polysemic nature. Energy Policy, 38(2), 887\u2013895. http://doi.org/10.1016/j.enpol.2009.10.039"", 
+      ""Climate Action Network Europe. (2017). CAN Europe position on the Regulation on the Governance of the Energy Union. Bruselas.  http://www.caneurope.org/docman/energy-union-governance/3042-can-europe-position-on-the-regulation-on-the-governance-of-the-energy-union/file"", 
+      ""Comisi\u00f3n Europea. (2000). Green Paper Towards a European strategy for the security of energy supply. Bruselas.  http://iet.jrc.ec.europa.eu/remea/sites/remea/files/green_paper_energy_supply_en.pdf"", 
+      ""Comisi\u00f3n Europea. Communication from the Commission to the European Parliament and the Council on the short term resilience of the European gas system. Preparedness for a possible disruption of supplies from the East during the fall and winter of 2014/2015 (2014). Bruselas: Comisi\u00f3n Europea.  https://ec.europa.eu/energy/sites/ener/files/documents/2014_stresstests_com_en_0.pdf"", 
+      ""Comisi\u00f3n Europea. Comunicaci\u00f3n de la Comisi\u00f3n. Directrices sobre ayudas estatales en materia de protecci\u00f3n del medio ambiente y energ\u00eda 2014-2020, Comunicaci\u00f3n 2014/200/01 (2014). Bruselas: Diario Oficial de la Uni\u00f3n Europea. http://eur-lex.europa.eu/legal-content/ES/TXT/PDF/?uri=CELEX:52014XC0628(01)&from=ES"", 
+      ""Comisi\u00f3n Europea. Comunicaci\u00f3n de la Comisi\u00f3n al Parlamento Europeo, al Consejo, al Comit\u00e9 Econ\u00f3mico y Social Europeo y al Comit\u00e9 de las Regiones: Precios y costes de la energ\u00eda en Europa (2014). Bruselas: Comisi\u00f3n Europea. http://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX%3A52014DC0021"", 
+      ""Comisi\u00f3n Europea. Comunicaci\u00f3n de la Comisi\u00f3n al Parlamento Europeo y al Consejo sobre la Estrategia Europea de la Seguridad Energ\u00e9tica (2014). Bruselas: Comisi\u00f3n Europea.  http://www.europarl.europa.eu/meetdocs/2014_2019/documents/com/com_com(2014)0330_/com_com(2014)0330_es.pdf"", 
+      ""Comisi\u00f3n Europea. (2014e). In-depth study of European Energy Security (Commission Staff Working Document No. SWD(2014)330 final/3). Bruselas.  https://ec.europa.eu/energy/sites/ener/files/documents/20140528_energy_security_study.pdf"", 
+      ""Comisi\u00f3n Europea. (2015a). Comunicaci\u00f3n de la Comisi\u00f3n al Parlamento Europeo, al Consejo, al Comit\u00e9 Econ\u00f3mico y Social Europeo, al Comit\u00e9 de las Regiones y al Banco de Inversiones Europeo. Estado de la Uni\u00f3n de la Energ\u00eda 2015. COM(2015) 572 final. Bruselas. http://eur-lex.europa.eu/resource.html?uri=cellar:ebdf266c-8eab-11e5-983e-01aa75ed71a1.0003.02/DOC_1&format=PDF"", 
+      ""Comisi\u00f3n Europea. (2015b). Monitoring progress towards the Energy Union objectives \u2013 Concept and first analysis of key indicators. Commission Staff Working Document. Bruselas. http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:52015SC0243&qid=1491985993800&from=EN"", 
+      ""Comisi\u00f3n Europea. Paquete sobre la Uni\u00f3n de la Energ\u00eda. Comunicaci\u00f3n de la Comisi\u00f3n al Parlamento Europeo, al Consejo, al Comit\u00e9 Econ\u00f3mico y Social Europeo, al Comit\u00e9 de las Regiones y al Banco Europeo de Inversiones. Estrategia Marco para una Uni\u00f3n de la Energ\u00eda resilient, Pub. L. No. COM(2015) 80 final (2015). Bruselas: EUR-Lex. https://eur-lex.europa.eu/resource.html?uri=cellar:1bd46c90-bdd4-11e4-bbe1-01aa75ed71a1.0011.03/DOC_1&format=PDF"", 
+      ""Comisi\u00f3n Europea. Communication from the Commission to the European Parliament, the Council, the European Economic and Social Committee, the Committee of the Regions and the European Investment Bank: Clean Energy For All Europeans (2016). Bruselas. http://eur-lex.europa.eu/resource.html?uri=cellar:fa6ea15b-b7b0-11e6-9e3c-01aa75ed71a1.0001.02/DOC_1&format=PDF"", 
+      ""Comisi\u00f3n Europea. Comunicaci\u00f3n de la Comisi\u00f3n al Parlamento y al Consejo. El camino desde Par\u00eds: evaluar las consecuencias del Acuerdo de Par\u00eds y complementar la propuesta de Decisi\u00f3n del Consejo relativa a la firma, en nombre de la Uni\u00f3n Europea, del Acuerdo de Par\u00eds adop (2016). Bruselas. http://eur-lex.europa.eu/legal-content/ES/TXT/PDF/?uri=CELEX:52016DC0110&from=ES"", 
+      ""Comisi\u00f3n Europea. Proposal for a regulation of the European Parliament and of the Council on the Governance of the Energy Union (2016). Bruselas.  https://ec.europa.eu/energy/sites/ener/files/documents/1_en_act_part1_v9_759.pdf"", 
+      ""Comisi\u00f3n Europea. (2017a). Communication from the Commission to the European Parliament, the Council, the European Economic and Social Committee, the Committee of the Regions and the European Investment Bank. Second Report on the State of the Energy Union. COM(2017) 53 final. Bruselas.  https://ec.europa.eu/commission/sites/beta-political/files/2nd-report-state-energy-union_en.pdf"", 
+      ""Comisi\u00f3n Europea. (2017b). Communication from the Commission to the European Parliament, the Council, the European Economic and Social Committee, the Committee of the Regions and the European Investment Bank. Third Report on the State of the Energy Union. COM(2017) 688 final. Bruselas.  https://ec.europa.eu/commission/sites/beta-political/files/third-report-state-energy-union_en.pdf"", 
+      ""Comisi\u00f3n Europea. Propuesta de Directiva del Parlamento Europeo y del Consejo relativa al fomento del uso de energ\u00eda procedente de fuentes renovables (refundici\u00f3n) (2017). Bruselas: Comisi\u00f3n Europea. http://eur-lex.europa.eu/resource.html?uri=cellar:3eb9ae57-faa6-11e6-8a35-01aa75ed71a1.0006.02/DOC_1&format=PDF"", 
+      ""Comisi\u00f3n Europea. (2018). PCI Interactive map. Retrieved March 23, 2018, from http://ec.europa.eu/energy/infrastructure/transparency_platform/map-viewer/main.html"", 
+      ""Consejo de la Uni\u00f3n Europea. Directiva 2014/87/Euratom del Consejo de 8 de julio de 2014 por la que se modifica la Directiva 2009/71/Euratom, por la que se establece un marco comunitario para la seguridad nuclear de las instalaciones nucleares (2014). Bruselas: Diario Oficial de la Uni\u00f3n Europea. https://eur-lex.europa.eu/legal-content/ES/TXT/PDF/?uri=CELEX:32014L0087&from=ES"", 
+      ""Consejo Mundial de la Energ\u00eda. (2017). World Energy Issues Monitor. Londres.  https://www.worldenergy.org/wp-content/uploads/2017/04/1.-World-Energy-Issues-Monitor-2017-Full-Report.pdf"", 
+      ""Constanze, A., & Nix, J. (2016). The effectiveness of the European Semester From a Governance Perspective. Green Budget Europe, 1\u201351. https://green-budget.eu/wp-content/uploads/2016-04-27-GBE-Semester-Governance-Final.pdf"", 
+      ""Duwe, M., Meyer-Ohlendorf, N., & Umpfenbach, K. (2017). Governance of the Energy Union: Assessment of the Commission Proposal for a Governance Regulation. Berlin.  https://www.ecologic.eu/sites/files/publication/2017/ecologic_institute_2017_assessment_of_governance_regulation.pdf"", 
+      ""Egging, R., & Tomasgard, A. (2018). Norway's role in the European energy transition. Energy Strategy Reviews, 20, 99\u2013101. http://doi.org/10.1016/j.esr.2018.02.004"", 
+      ""Escribano, G. (2013). Geopol\u00edtica y Seguridad Energ\u00e9tica en el Sistema Internacional, 5."", 
+      ""Escribano, G., & Garc\u00eda-Verdugo, J. (2012). Energy security, energy corridors and the geopolitical context. In Energy Security for the EU in the 21st Century: Markets, geopolitics and corridors (pp. 26\u201336). Londres: Routledge."", 
+      ""Escribano, G., & L\u00e1zaro, L. (2017). Energ\u00eda y clima en 2017: volatilidad contenida, implementaci\u00f3n clim\u00e1tica e incertidumbre pol\u00edtica. Estudios Internacionales y Estrat\u00e9gicos. http://www.realinstitutoelcano.org/wps/wcm/connect/76f6b277-74c8-4784-be9b-3aed8bdf21db/ARI32-2017-Escribano-Lazaro-Energia-clima-2017-volatilidad-contenida-incertidumbre.pdf?MOD=AJPERES&CACHEID=76f6b277-74c8-4784-be9b-3aed8bdf21db"", 
+      ""Escribano, G., Mar\u00edn, J. M., & San Mart\u00edn, E. (2013). RES and risk: Renewable energy's contribution to energy security. A portfolio-based approach. Renewable and Sustainable Energy Reviews, 26, 550. http://doi.org/10.1016/j.rser.2013.06.015"", 
+      ""EUR-Lex. (2010). Referencias en Tratado Constitutivo de la Comunidad Europea del Carb\u00f3n y el Acero. http://eur-lex.europa.eu/legal-content/ES/TXT/?uri=LEGISSUM%3Axy0022"", 
+      ""EUR-Lex. (2015). El principio de subsidiariedad. https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=LEGISSUM%3Aai0017"", 
+      ""EUROSTAT. (2016). Where does our energy come from? http://doi.org/10.2785/84924"", 
+      ""EUROSTAT. (2017a). Final energy consumption, 1990-2015 (million tonnes of oil equivalent). http://ec.europa.eu/eurostat/statistics-explained/images/7/75/Final_energy_consumption%2C_1990-2015_%28million_tonnes_of_oil_equivalent%29_YB17.png"", 
+      ""EUROSTAT. (2017b). Final energy consumption, EU-28, 2015 (% of total, based on tonnes of oil equivalent). http://ec.europa.eu/eurostat/statistics-explained/images/7/72/Final_energy_consumption%2C_EU-28%2C_2015_%28%25_of_total%2C_based_on_tonnes_of_oil_equivalent%29_YB17.png"", 
+      ""EUROSTAT. (2017c). Main origin of primary energy imports, EU-28, 2005-2015. http://ec.europa.eu/eurostat/statistics-explained/images/9/92/Main_origin_of_primary_energy_imports%2C_EU-28%2C_2005-2015_%28%25_of_extra_EU-28_imports%29_YB17.png"", 
+      ""Fern\u00e1ndez, A., & Rodr\u00edguez, L. (2016). Seguridad de abastecimiento energ\u00e9tico en la Uni\u00f3n Europea en el contexto del conflicto gasista ruso-ucraniano. Papeles de Europa, 29(2), 30\u201353. http://doi.org/10.5209/PADE.5579"", 
+      ""Fischer, S. (2014). The EU's new energy and climate policy framework for 2030: implications for the German energy transition. Stiftung Wissenschaft Und Politik (SWP Comments), 55, 2. http://nbn-resolving.de/urn:nbn:de:0168-ssoar-412097"", 
+      ""Garc\u00eda-Verdugo, J., & San Mart\u00edn, E. (2012). Risk theory applied to energy security: a tipology of energy risks. In Energy Security for the EU in the 21st Century: Markets, geopolitics and corridors (pp. 111\u2013143). Londres: Routledge."", 
+      ""Giuli, M. (2017). Governance of the Energy Union: a milestone in the Europeanisation of energy policy? CEEP Report, 49(2), 1\u20132. https://www.ceep.be/www/wp-content/uploads/2017/07/Q2-CEEP-Report-2017.pdf"", 
+      ""Goldthau, A. (2012). A Public Policy Perspective on Global Energy Security. International Studies Perspectives, 13, 65\u201384. http://doi.org/10.1111/j.1528-3585.2011.00448.x"", 
+      ""Griffiths, S. (2017). A review and assessment of energy policy in the Middle East and North Africa region. Energy Policy, 102, 249\u2013269. http://doi.org/10.1016/j.enpol.2016.12.023"", 
+      ""Guha-Sapir, D., Hoyois, P., Wallemacq, P., & Below, R. (2016). Annual Disaster Statistical Review 2016: The numbers and trends. Lovaina-La-Nueva.  http://emdat.be/sites/default/files/adsr_2016.pdf"", 
+      ""Gullberg, A. T. (2008). Lobbying friends and foes in climate policy: The case of business and environmental interest groups in the European Union. Energy Policy, 26, 2964\u20132972. http://doi.org/10.1016/j.enpol.2008.04.016"", 
+      ""Helm, D. (2015). The EU Energy Union: More than the sum of its parts? Londres.  http://www.cer.eu/sites/default/files/publications/attachments/pdf/2015/pb_helm_energy_9nov15-12259.pdf"", 
+      ""Hern\u00e1ndez, E., & Kriesi, H. (2016). Turning your back on the EU. The role of Eurosceptic parties in the 2014 European Parliament elections. Electoral Studies, 44, 515\u2013524. http://doi.org/10.1016/j.electstud.2016.04.013"", 
+      ""Hirshleifer, J. (1983). From Weakest-Link to Best-Shot: The Voluntary Provision of Public Goods. Public Choice, 41(3), 371\u2013386.  http://econ.ucsb.edu/~deacon/Econ210CPublic/papers/HirshleiferBestShot.pdf"", 
+      ""Hobolt, S. B., & De Vries, C. (2016). Turning against the Union? The impact of the crisis on the Eurosceptic vote in the 2014 European Parliament elections. Electoral Studies, 44, 504\u2013514. http://doi.org/10.1016/j.electstud.2016.05.006"", 
+      ""Hodgson, G. (2006). What Are Institutions? Journal of Economic Issues, 40, 1\u201325. http://doi.org/10.1080/00213624.2006.11506879"", 
+      ""Hoti, S., Pauwels, L., & Mcaleer, M. (2004). Measuring Environmental Risk. In Complexity and Integrated Resources Management . Osnabr\u00fcck: International Environmental Modelling and Software Society.  http://www.iemss.org/iemss2004/pdf/volatility/hotimeas.pdf"", 
+      ""Hull, J., Khurana, H., Markham, T., & Staggs, K. (2012). Staying in Control: Cybersecurity and the Modern Electric Grid. IEEE Power & Energy Magazine, 41\u201348. http://doi.org/10.1109/MPE.2011.943251"", 
+      ""Hung, D. Q., Mithulananthan, N., & Bansal, R. C. (2013). Analytical strategies for renewable distributed generation integration considering energy loss minimization. Applied Energy, 105, 75\u201385. http://doi.org/10.1016/j.apenergy.2012.12.023"", 
+      ""INEA, & Comisi\u00f3n Europea. (2018). CEF Energy. https://ec.europa.eu/inea/en/connecting-europe-facility/cef-energy"", 
+      ""INFORM. (2018). INFORM - Global, open-source risk assessment for humanitarian crises and disasters. http://www.inform-index.org/"", 
+      ""Institute for Economics and Peace. (2017). Global Peace Index. Sydney.  http://visionofhumanity.org/app/uploads/2017/06/GPI17-Report.pdf"", 
+      ""IPCC. (2012). Managing the Risks of Extreme Events and Disasters to Advance Climate Change Adaptation. Nueva York: Cambridge University Press.  http://www.ipcc.ch/report/srex/"", 
+      ""IPCC. (2014). Climate Change 2014: Impacts, Adaptation, and Vulnerability. Nueva York: Cambridge University Press. http://www.ipcc.ch/report/ar5/wg2/"", 
+      ""Isbell, P. (2008). The riddle of energy security. An\u00e1lisis Del Real Instituto Elcano, (67), 1\u20139.  http://www.realinstitutoelcano.org/wps/wcm/connect/71254c804f018b70b693f63170baead1/ARI67-2008_Isbell_Riddle_Energy_Security.pdf?MOD=AJPERES&CACHEID=71254c804f018b70b693f63170baead1"", 
+      ""JEU. (2014). Environmental Emergency Risk Index (EERI). Ginebra.  http://www.unocha.org/sites/dms/Documents/EnvEmRiskIndex.pdf"", 
+      ""Kaufmann, D., Kraay, A., & Mastruzzi, M. (2010). The Worldwide Governance Indicators: Methodology and Analytical Issues (No. 5430). Washington, DC.  https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1682130"", 
+      ""Keay, M., & Buchan, D. (2015). Europe's Energy Union: a problem of governance (Oxford Energy Comment). Oxford. https://www.oxfordenergy.org/wpcms/wp-content/uploads/2016/02/Europes-Energy-Union-a-problem-of-governance.pdf"", 
+      ""L\u00f3pez, S., & S\u00e1nchez-Pe\u00f1uela, J. B. (2017). El nuevo reglamento europeo de seguridad de suministro de gas. Revista de Econom\u00eda Industrial, (405), 155\u2013162.  http://www.minetad.gob.es/Publicaciones/Publicacionesperiodicas/EconomiaIndustrial/RevistaEconomiaIndustrial/405/PRIMERA NOTA.pdf"", 
+      ""Maher, S. (2013). The Arab Spring and its impact on supply and production in global markets. Strategy Paper, (4).  https://www.kcl.ac.uk/sspp/departments/warstudies/research/groups/eucers/pubs/strategy-paper-4.pdf"", 
+      ""Mar\u00edn, J. M., San Mart\u00edn, E., & Serrano, S. (2012). Factores clave de la seguridad del suministro energ\u00e9tico. Cuadernos de Energ\u00eda, 35, 68\u201381."", 
+      ""Mar\u00edn, J. M., Velasco, C., Garc\u00eda-Verdugo, J., Escribano, G., San Mart\u00edn, E., Rodr\u00edguez, L., & Mu\u00f1oz, B. (2010). Pol\u00edtica energ\u00e9tica en el \u00e1mbito de la Uni\u00f3n Europea y su proyecci\u00f3n en Espa\u00f1a. Colecci\u00f3n Estudios (Vol. 225)."", 
+      ""Mi\u0161\u00edk, M. (2015). The influence of perception on the preferences of the new member states of the European Union: The case of energy policy. Comparative European Politics, 13(2), 198\u2013221. http://doi.org/https://doi.org/10.1057/cep.2013.9"", 
+      ""Mi\u0161\u00edk, M. (2017). Comments on \""the Energy Union and security-of-gas supply\"" by Ole Gunnar Austvik. Energy Policy, 102, 27\u201329.  https://doi.org/10.1016/j.enpol.2016.12.011"", 
+      ""National Research Council. (1992). Global Environmental Change. Washington, DC: National Academies Press. http://doi.org/10.17226/1792"", 
+      ""O'Sullivan, M., Overland, I., & Sandalow, D. (2017). The Geopolitics of Renewable Energy. Nueva York, Cambridge.  https://sites.hks.harvard.edu/hepg/Papers/2017/Geopolitics Renewables - final report 6.26.17.pdf"", 
+      ""Panizza, R. (2018). El principio de subsidiariedad. http://www.europarl.europa.eu/ftu/pdf/es/FTU_1.2.2.pdf"", 
+      ""Parlamento Europeo, & Consejo de la Uni\u00f3n Europea. Directiva del Parlamento Europeo y del Consejo relativa al fomento del uso de energ\u00eda procedente de fuentes renovables y por la que se modifican y se derogan las Directivas 2001/77/CE y 2003/30/CE (2009). Bruselas: Parlamento Europeo y Consejo.  http://eur-lex.europa.eu/legal-content/ES/TXT/PDF/?uri=CELEX:32009L0028&from=ES"", 
+      ""Parlamento Europeo, & Consejo de la Uni\u00f3n Europea. Directiva 2010/31/UE del Parlamento Europeo y del Consejo de 19 de mayo de 2010 relativa a la eficiencia energ\u00e9tica de los edificios (refundici\u00f3n) (2010). Bruselas: Diario Oficial de la Uni\u00f3n Europea. https://eur-lex.europa.eu/legal-content/ES/TXT/PDF/?uri=CELEX:32010L0031&from=ES"", 
+      ""Parlamento Europeo, & Consejo de la Uni\u00f3n Europea. Directiva 2012/27/UE del Parlamento Europeo y del Consejo de 25 de octubre de 2012 relativa a la eficiencia energ\u00e9tica, por la que se modifican las Directivas 2009/125/CE y 2010/30/CE, y por la que se derogan las Directivas 2004/8/CE y 2006/32/CE (2012). Bruselas: Diario Oficial de la Uni\u00f3n Europea. http://eur-lex.europa.eu/legal-content/ES/TXT/?uri=uriserv:OJ.L_.2012.315.01.0001.01.SPA&toc=OJ:L:2012:315:TOC"", 
+      ""Parlamento Europeo, & Consejo de la Uni\u00f3n Europea. Reglamento (UE) No 347/2013 del Parlamento Europeo y del Consejo de 17 de abril de 2013 relativo a las orientaciones sobre las infraestructuras energ\u00e9ticas transeuropeas y por el que se deroga la Decisi\u00f3n No 1364/2006/CE y se modifican los Reglamentos (CE, Reglamento 347/2013 (2013). Luxemburgo: Oficina de Publicaciones de la Uni\u00f3n Europea. https://publications.europa.eu/es/publication-detail/-/publication/4efef62f-b4c2-465f-96fc-273f5479a0dc/language-es"", 
+      ""Pepermans, G., Driesen, J., Haeseldonckx, D., Belmans, R., & D'haeseleer, W. (2005). Distributed Generation: Definition, Benefits and Issues. Energy Policy, 33(6), 787\u2013798. http://doi.org/10.1016/j.enpol.2003.10.004"", 
+      ""PNUD/UNDP. (2010). Gesti\u00f3n del Riesgo Clim\u00e1tico. Nueva York.  http://www.undp.org/content/undp/es/home/librarypage/crisis-prevention-and-recovery/climate_risk_management.html"", 
+      ""PublicOpinion - Comisi\u00f3n Europea. (2017). What do you think are the two most important issues facing the EU at the moment? http://ec.europa.eu/commfrontoffice/publicopinion/index.cfm/Chart/getChart/themeKy/31/groupKy/188"", 
+      ""REN21. (2017). Highlights of the REN21 Renewables 2017 Global Status Report in perspective. Par\u00eds. http://www.ren21.net/wp-content/uploads/2017/06/GSR2017_Highlights_FINAL.pdf"", 
+      ""Ringel, M., & Knodt, M. (2018). The governance of the European Energy Union: Efficiency, effectiveness and acceptance of the Winter Package 2016. Energy Policy, 112, 209\u2013220. http://doi.org/10.1016/j.enpol.2017.09.047"", 
+      ""Rodr\u00edguez Fern\u00e1ndez, L. (2012). Seguridad de abastecimiento energ\u00e9tico en la UE-27: dimensiones, pol\u00edticas y convergencia. Universidad Nacional de Educaci\u00f3n a Distancia. http://e-spacio.uned.es/fez/view/tesisuned:CiencEcoEmp-Lrodriguez"", 
+      ""Rodr\u00edguez Fern\u00e1ndez, L., & Garc\u00eda-Verdugo, J. (2011). Las pol\u00edticas de seguridad de abastecimiento energ\u00e9tico: dimensiones, cuantificaci\u00f3n y aplicaci\u00f3n al caso espa\u00f1ol. Papeles de Econom\u00eda Espa\u00f1ola, (134), 231\u2013243. www.funcas.es/publicaciones/viewarticulo_PDF.aspx?IdArt=20969"", 
+      ""Ryd\u00e9n, L. (2015). Is Local Energy Supply a Main Road to Sustainability? Sustainable Development, Knowledge Society and Smart Future Manufacturing Technologies, 16, 19\u201331. http://doi.org/10.1007/978-3-319-14883-0"", 
+      ""Schmitter, P. C. (2002). Participation in Governance Arrangements: Is there any reason to expect it will achieve \""Sustainable and Innovative Policies in a Multi-Level Context'''?\"" In J. R. Grote & B. Gbikpi (Eds.), Participatory Governance: Political and Societal Implications (pp. 51\u201369). Wiesbaden: VS Verlag f\u00fcr Sozialwissenschaften. http://doi.org/10.1007/978-3-663-11003-3_3"", 
+      ""Searle, J. (2005). What is an institution? Journal of Institutional Economics, 1(1), 1\u201322. http://doi.org/10.1017/S1744137405000020"", 
+      ""SEDAC. (2005). Environmental Sustainability Index (ESI). http://sedac.ciesin.columbia.edu/data/collection/esi/"", 
+      ""Sovacool, B. K., & Brown, M. A. (2010). Competing Dimensions of Energy Security: An International Perspective. Annual Review of Environment and Resources, 35(1), 77\u2013108. http://doi.org/10.1146/annurev-environ-042509-143035"", 
+      ""The Economist Intelligence Unit. (2018). Cause for concern? The top 10 risks to the global economy. Londres.  http://www.eiu.com/Handlers/WhitepaperHandler.ashx?fi=Top_10_risks_to_the_global_economy.pdf&mode=wp&campaignid=Top10GlobalRisks"", 
+      ""Tratado CECA. Tratado constitutivo de la Comunidad Europea del Carb\u00f3n y del Acero (1951). Par\u00eds: EUR-Lex."", 
+      ""Tratado de \u00c1msterdam. Tratado de \u00c1msterdam por el que se modifican el Tratado de la Uni\u00f3n Europea, los Tratados constitutivos de las Comunidades Europeas y determinados actos conexos (1997). \u00c1msterdam: Parlamento Europeo."", 
+      ""Tratado de la CEE. Versi\u00f3n consolidada del Tratado Constitutivo de la Comunidad Europea (1957). Roma: Diario Oficial de las Comunidades Europeas (DOCE)."", 
+      ""Tratado de la Uni\u00f3n Europea. Tratado de la Uni\u00f3n Europea (1992). Maastricht: Consejo de las Comunidades Europeas y Comisi\u00f3n de las Comunidades Europeas."", 
+      ""Tratado de Lisboa. Tratado de Lisboa (2007). Lisboa: Ministerio de Justicia de Espa\u00f1a."", 
+      ""Tratado de Niza. Tratado de Niza por el que se modifican el Tratado de la Uni\u00f3n Europea, los Tratados constitutivos de las Comunidades Europeas y determinados actos conexos (2001). Niza: Diario Oficial de las Comunidades Europeas (DOCE)."", 
+      ""Tratado Euratom. Tratado constitutivo de la Comunidad Europea de la Energ\u00eda At\u00f3mica (1957). Roma: EUR-Lex."", 
+      ""Tusk, D. (2014, April 21). A united Europe can end Russia's energy stranglehold. Financial Times. Londres. https://www.ft.com/content/91508464-c661-11e3-ba0e-00144feabdc0"", 
+      ""Valdivia Orbaneja, J. R., Iyer, S. R., & Simkins, B. J. (2017). Terrorism and oil markets: A cross-sectional evaluation. Finance Research Letters, 24, 42\u201348. http://doi.org/10.1016/j.frl.2017.06.016"", 
+      ""Vandendriessche, M., Saz-Carranza, \u00c1., & Glachant, J. M. (2017). The Governance of the EU's Energy Union: Bridging the Gap? (EUI Working Papers No. 51). Florencia.  http://cadmus.eui.eu/bitstream/handle/1814/48325/RSCAS_2017_51.pdf?sequence=1&isAllowed=y"", 
+      ""von Hirschhausen, C. (2005). Strategies for Energy Security - A Transatlantic Comparison (No. WP-GG-14). Berl\u00edn. https://tu-dresden.de/bu/wirtschaft/ee2/ressourcen/dateien/dateien/ordner_publikationen/wp_gg_14_hirschhausen_concensus_hiti_energy_supply.pdf?lang=de""
+    ], 
+    ""thesis"": {
+      ""university"": ""Universidad Nacional de Educaci\u00f3n a Distancia (UNED)"", 
+      ""supervisors"": [
+        {
+          ""affiliation"": ""UNED"", 
+          ""name"": ""Rodr\u00edguez Fern\u00e1ndez, Laura""
+        }
+      ]
+    }, 
+    ""keywords"": [
+      ""pol\u00edtica energ\u00e9tica"", 
+      ""seguridad energ\u00e9tica"", 
+      ""integraci\u00f3n europea"", 
+      ""uni\u00f3n energ\u00e9tica""
+    ], 
+    ""publication_date"": ""2018-07-18"", 
+    ""creators"": [
+      {
+        ""orcid"": ""0000-0003-2572-1966"", 
+        ""affiliation"": ""MRes Student in Economics at UNED"", 
+        ""name"": ""Garc\u00eda-Garc\u00eda, Pablo""
+      }
+    ], 
+    ""access_right"": ""open"", 
+    ""resource_type"": {
+      ""subtype"": ""thesis"", 
+      ""type"": ""publication"", 
+      ""title"": ""Thesis""
+    }, 
+    ""related_identifiers"": [
+      {
+        ""scheme"": ""doi"", 
+        ""relation"": ""isVersionOf"", 
+        ""identifier"": ""10.5281/zenodo.1345692""
+      }
+    ]
+  }
+}"
+10.5281/zenodo.1400168,"{
+  ""files"": [
+    {
+      ""links"": {
+        ""self"": ""https://zenodo.org/api/files/badce7d7-6800-4df1-beac-65f42dcd585d/11.pdf""
+      }, 
+      ""checksum"": ""md5:7e1f181a4181e8c988448a242eb73a73"", 
+      ""bucket"": ""badce7d7-6800-4df1-beac-65f42dcd585d"", 
+      ""key"": ""11.pdf"", 
+      ""type"": ""pdf"", 
+      ""size"": 1710009
+    }
+  ], 
+  ""owners"": [
+    42770
+  ], 
+  ""doi"": ""10.5281/zenodo.1400168"", 
+  ""stats"": {
+    ""version_unique_downloads"": 203.0, 
+    ""unique_views"": 366.0, 
+    ""views"": 392.0, 
+    ""downloads"": 182.0, 
+    ""unique_downloads"": 177.0, 
+    ""version_unique_views"": 453.0, 
+    ""volume"": 311221638.0, 
+    ""version_downloads"": 231.0, 
+    ""version_views"": 504.0, 
+    ""version_volume"": 402329396.0
+  }, 
+  ""links"": {
+    ""doi"": ""https://doi.org/10.5281/zenodo.1400168"", 
+    ""conceptdoi"": ""https://doi.org/10.5281/zenodo.1186338"", 
+    ""bucket"": ""https://zenodo.org/api/files/badce7d7-6800-4df1-beac-65f42dcd585d"", 
+    ""conceptbadge"": ""https://zenodo.org/badge/doi/10.5281/zenodo.1186338.svg"", 
+    ""html"": ""https://zenodo.org/record/1400168"", 
+    ""latest_html"": ""https://zenodo.org/record/1400168"", 
+    ""badge"": ""https://zenodo.org/badge/doi/10.5281/zenodo.1400168.svg"", 
+    ""latest"": ""https://zenodo.org/api/records/1400168""
+  }, 
+  ""conceptdoi"": ""10.5281/zenodo.1186338"", 
+  ""created"": ""2018-08-20T07:43:26.822815+00:00"", 
+  ""updated"": ""2019-06-03T03:57:56.548775+00:00"", 
+  ""conceptrecid"": ""1186338"", 
+  ""revision"": 7, 
+  ""id"": 1400168, 
+  ""metadata"": {
+    ""access_right_category"": ""success"", 
+    ""doi"": ""10.5281/zenodo.1400168"", 
+    ""description"": ""<p>This paper extends the New Keynesian model by introducing wealth, in the form of government bonds, into the utility function. The extension modifies the Euler equation: in steady state the real interest rate is negatively related to consumption instead of being constant, equal to the time discount rate. Thus, when the marginal utility of wealth is large enough, the dynamical system representing the equilibrium is a source not only in normal times but also at the zero lower bound. This property eliminates the zero-lower-bound anomalies of the New Keynesian model, such as explosive output and inflation, and forward-guidance puzzle.</p>"", 
+    ""license"": {
+      ""id"": ""CC-BY-4.0""
+    }, 
+    ""title"": ""A New Keynesian Model with Wealth in the Utility Function"", 
+    ""relations"": {
+      ""version"": [
+        {
+          ""count"": 2, 
+          ""index"": 1, 
+          ""parent"": {
+            ""pid_type"": ""recid"", 
+            ""pid_value"": ""1186338""
+          }, 
+          ""is_last"": true, 
+          ""last_child"": {
+            ""pid_type"": ""recid"", 
+            ""pid_value"": ""1400168""
+          }
+        }
+      ]
+    }, 
+    ""communities"": [
+      {
+        ""id"": ""economics""
+      }
+    ], 
+    ""publication_date"": ""2018-08-20"", 
+    ""creators"": [
+      {
+        ""orcid"": ""0000-0003-2381-7470"", 
+        ""affiliation"": ""Brown University"", 
+        ""name"": ""Michaillat, Pascal""
+      }, 
+      {
+        ""affiliation"": ""University of California -- Berkeley"", 
+        ""name"": ""Saez, Emmanuel""
+      }
+    ], 
+    ""access_right"": ""open"", 
+    ""resource_type"": {
+      ""subtype"": ""workingpaper"", 
+      ""type"": ""publication"", 
+      ""title"": ""Working paper""
+    }, 
+    ""related_identifiers"": [
+      {
+        ""scheme"": ""url"", 
+        ""relation"": ""isPreviousVersionOf"", 
+        ""identifier"": ""https://arxiv.org/abs/1905.13645""
+      }, 
+      {
+        ""scheme"": ""doi"", 
+        ""relation"": ""isVersionOf"", 
+        ""identifier"": ""10.5281/zenodo.1186338""
+      }
+    ]
+  }
+}"
+"
+
+10.5281/zenodo.1308674
+
+","{
+  ""files"": [
+    {
+      ""links"": {
+        ""self"": ""https://zenodo.org/api/files/c9f15b17-39c9-44d2-b25b-cc576e0e61fd/Las%20limitaciones%20metodol%C3%B3gicas%20de%20la%20racionalidad%20perfecta%20en%20la%20teor%C3%ADa%20econ%C3%B3mica%20la%20problem%C3%A1tica%20de%20los%20sesgos%20cognitivos.pdf""
+      }, 
+      ""checksum"": ""md5:160aa06497868f1a747287dd6c1fae72"", 
+      ""bucket"": ""c9f15b17-39c9-44d2-b25b-cc576e0e61fd"", 
+      ""key"": ""Las limitaciones metodol\u00f3gicas de la racionalidad perfecta en la teor\u00eda econ\u00f3mica la problem\u00e1tica de los sesgos cognitivos.pdf"", 
+      ""type"": ""pdf"", 
+      ""size"": 112029
+    }
+  ], 
+  ""owners"": [
+    48427
+  ], 
+  ""doi"": ""10.5281/zenodo.1308674"", 
+  ""stats"": {
+    ""version_unique_downloads"": 112.0, 
+    ""unique_views"": 210.0, 
+    ""views"": 226.0, 
+    ""downloads"": 116.0, 
+    ""unique_downloads"": 112.0, 
+    ""version_unique_views"": 210.0, 
+    ""volume"": 12995364.0, 
+    ""version_downloads"": 116.0, 
+    ""version_views"": 226.0, 
+    ""version_volume"": 12995364.0
+  }, 
+  ""links"": {
+    ""doi"": ""https://doi.org/10.5281/zenodo.1308674"", 
+    ""conceptdoi"": ""https://doi.org/10.5281/zenodo.1308673"", 
+    ""bucket"": ""https://zenodo.org/api/files/c9f15b17-39c9-44d2-b25b-cc576e0e61fd"", 
+    ""conceptbadge"": ""https://zenodo.org/badge/doi/10.5281/zenodo.1308673.svg"", 
+    ""html"": ""https://zenodo.org/record/1308674"", 
+    ""latest_html"": ""https://zenodo.org/record/1308674"", 
+    ""badge"": ""https://zenodo.org/badge/doi/10.5281/zenodo.1308674.svg"", 
+    ""latest"": ""https://zenodo.org/api/records/1308674""
+  }, 
+  ""conceptdoi"": ""10.5281/zenodo.1308673"", 
+  ""created"": ""2018-07-17T12:24:38.100185+00:00"", 
+  ""updated"": ""2019-04-09T14:03:01.743756+00:00"", 
+  ""conceptrecid"": ""1308673"", 
+  ""revision"": 7, 
+  ""id"": 1308674, 
+  ""metadata"": {
+    ""access_right_category"": ""success"", 
+    ""doi"": ""10.5281/zenodo.1308674"", 
+    ""description"": ""<p>El presente trabajo analiza las limitaciones del concepto de racionalidad perfecta utilizado por la teor&iacute;a econ&oacute;mica ortodoxa. En la primera parte, se recogen las diversas formulaciones del concepto de &ldquo;racionalidad&rdquo; en las Ciencias Sociales y, espec&iacute;ficamente, en la Econom&iacute;a, mostrando sus matices y su evoluci&oacute;n. En la segunda parte, se contrastan los preceptos te&oacute;ricos con los resultados emp&iacute;ricos de experimentos psicol&oacute;gicos y neurocient&iacute;ficos con el objetivo de valorar la adecuaci&oacute;n de la racionalidad perfecta. Finalmente, se valora la utilidad metodol&oacute;gica del concepto y se concluye con una s&iacute;ntesis en la que se proponen algunas reformulaciones de los modelos econ&oacute;micos convencionales para dotarlos de mayor capacidad explicativa en lo que al postulado de racionalidad se refiere.</p>"", 
+    ""license"": {
+      ""id"": ""CC-BY-4.0""
+    }, 
+    ""title"": ""Las limitaciones metodol\u00f3gicas de la racionalidad perfecta en la teor\u00eda econ\u00f3mica: la problem\u00e1tica de los sesgos cognitivos"", 
+    ""language"": ""spa"", 
+    ""notes"": ""Clasificaci\u00f3n JEL: B00, D80."", 
+    ""relations"": {
+      ""version"": [
+        {
+          ""count"": 1, 
+          ""index"": 0, 
+          ""parent"": {
+            ""pid_type"": ""recid"", 
+            ""pid_value"": ""1308673""
+          }, 
+          ""is_last"": true, 
+          ""last_child"": {
+            ""pid_type"": ""recid"", 
+            ""pid_value"": ""1308674""
+          }
+        }
+      ]
+    }, 
+    ""communities"": [
+      {
+        ""id"": ""economics""
+      }
+    ], 
+    ""references"": [
+      ""\u00c1lvarez \u00c1lvarez, F. J., Teira Serrano, D., & Zamora Bonilla, J. (2005). L\u00edmites del concepto de racionalidad. En Filosof\u00eda de las Ciencias Sociales (pp. 156\u2013175). Madrid: Universidad Nacional de Educaci\u00f3n a Distancia."", 
+      ""\u00c5stebro, T., Mata, J., & Santos-Pinto, L. (2014). Skewness seeking: risk loving, optimism or overweighting of small probabilities? Theory and Decision, 78(2), 189\u2013208."", 
+      ""Baumane-Vitolina, I., Cals, I., & Sumilo, E. (2016). Is Ethics Rational? Teleological, Deontological and Virtue Ethics Theories Reconciled in the Context of Traditional Economic Decision Making. Procedia Economics and Finance, 39, 108\u2013114."", 
+      ""Bernoulli, D. (1954*). Exposition of a new theory on the measurement of risk. Econometrica, 22(1), 23\u201336."", 
+      ""Boudon, R. (2006). \u00bfQu\u00e9 teor\u00eda del comportamiento para las Ciencias Sociales? En III Congreso de Sociolog\u00eda. Granada."", 
+      ""Bruner, J., & Potter, M. (1964). Interference in visual recognition. Science, 144(3617), 424\u2013425."", 
+      ""Camerer, C., & Lovallo, D. (1999). Overconfidence and excess entry: an experimental approach. The American Economic Review, 89(1), 306\u2013318."", 
+      ""Carlson, R. W., & Zaki, J. (2018). Good deeds gone bad: Lay theories of altruism and selfishness. Journal of Experimental Social Psychology, 75, 36\u201340."", 
+      ""Cortada de Kohan, N. (2008). Los sesgos cognitivos en la toma de decisiones. International Journal of Psychological Research, 1(1), 68\u201373."", 
+      ""Denis, A. (2002). Collective and individual rationality: Maynard Keynes's methodological standpoint and policy prescription. Research in Political Economy, 20, 187\u2013215."", 
+      ""Febrero Devesa, R. (1998). La moderna macroeconom\u00eda neocl\u00e1sica y sus consecuencias para la formulaci\u00f3n de la pol\u00edtica econ\u00f3mica. Documentos de Trabajo de La Facultad de Ciencias Econ\u00f3micas Y Empresariales, (11)."", 
+      ""Fern\u00e1ndez D\u00edaz, A., Parejo Gamir, J. A., & Rodr\u00edguez Sa\u00edz, L. (1993). El m\u00e9todo de la Ciencia Econ\u00f3mica. En Curso de pol\u00edtica econ\u00f3mica (pp. 47\u201349). Madrid."", 
+      ""Heilbroner, R. L. (1982). The socialization of the individual in Adam Smith. History of Political Economy, 427\u2013439."", 
+      ""Helson, H. (1964). Adaptation-level theory: an experimental and systematic approach to behavior. Nueva York: Harper & Row."", 
+      ""Jeung, H., Schwieren, C., & Herpertz, S. C. (2016). Rationality and self-interest as economic-exchange strategy in borderline personality disorder: Game theory, social preferences, and interpersonal behavior. Neuroscience & Biobehavioral Reviews, 71(Supplement C), 849\u2013864."", 
+      ""Kahneman, D. (1994). New challenges to the rationality assumption. Journal of the Institute of Theoretical Economics, 150(1), 21."", 
+      ""Kahneman, D., & Tversky, A. (1984). Choices, values, and frames. APA Award Addresses, 341\u2013350."", 
+      ""Keynes, J. M. (1936). Teor\u00eda general del empleo, el inter\u00e9s y el dinero. Londres: Palgrave Macmillan."", 
+      ""Knetsch, J. L., & Sinden, J. A. (1984). Willingness to pay and compensation demanded: Experimental evidence of an unexpected disparity in measures of value. The Quarterly Journal of Economics, 99(3), 507\u2013521."", 
+      ""Marx, K. (1867). Cap\u00edtulo 1. En El Capital. Hamburgo: Otto Meisner."", 
+      ""Orive, A. (2006). De la racionalidad neocl\u00e1sica a la racionalidad situada. Estudios Pol\u00edticos, 8(9), 75\u2013116."", 
+      ""Ouliaris, S. (2011). \u00bfQu\u00e9 son los modelos econ\u00f3micos? C\u00f3mo tratan de simular la realidad los economistas. Finanzas Y Desarrollo - Fondo Monetario Internacional, 48(2), 46,47."", 
+      ""Paolilli, A. L. (2009). About the \""economic\"" origin of altruism. The Journal of Socio-Economics, 38(1), 60\u201371."", 
+      ""Phelps, E. S., & Pollak, R. A. (1968). On Second-Best National Saving and Game-Equilibrium Growth. The Review of Economic Studies, 35(2), 185."", 
+      ""Rabin, M. (2015). Psychology and Economics. Journal of Economic Literature, 36(1), 11\u201346."", 
+      ""Rapoport, H., & Vidal, J.-P. (2007). Economic growth and endogenous intergenerational altruism. Journal of Public Economics, 91(7\u20138), 1231\u20131246."", 
+      ""Reicher, S., & Drury, J. (2015). Collective Behavior, Social Psychology of A2 - Wright, James D. BT - International Encyclopedia of the Social & Behavioral Sciences (Second Edition) (pp. 151\u2013156). Oxford: Elsevier."", 
+      ""Robbins, L. (1932). Ensayo sobre la significaci\u00f3n y naturaleza de la ciencia econ\u00f3mica. Londres: MacMillan."", 
+      ""Rodr\u00edguez-Achach, M., & Huerta-Quintanilla, R. (2006). The distribution of wealth in the presence of altruism in simple economic models. Physica A: Statistical Mechanics and Its Applications, 361(1), 309\u2013318."", 
+      ""Rodrik, D. (2015). Economics Rules: The Rights and Wrongs of The Dismal Science. Nueva York: W.W. Norton."", 
+      ""Samuelson, P. (1961). Economics. An Introductory Analysis. Nueva York: Mc. Graw Hill."", 
+      ""Sen, A. (1977). Rational Fools: A Critique of the Behavioral Foundations of Economic Theory. Philosophy and Public Affairs, 6, 317\u2013344."", 
+      ""Simon, H. (1986). Rationality in Psychology and Economics. En Rational Choice. The Contrast Between Economics and Psychology (p. 27). Chicago: The University of Chicago Press."", 
+      ""Smith, A. (1776). Una investigaci\u00f3n sobre la naturaleza y causas de la riqueza de las naciones. Londres: W. Strahan & T. Cadell."", 
+      ""Streb, J. (1998). El significado de racionalidad en Econom\u00eda."", 
+      ""Thaler, R. (1980). Toward a positive theory of consumer choice. Journal of Economic Behavior & Organization, 1(1), 39\u201360."", 
+      ""Tomer, J. (2008). Beyond the rationality of economic man, toward the true rationality of human man. The Journal of Socio-Economics, 37(5), 1703\u20131712."", 
+      ""Tversky, A., & Kahneman, D. (1971). Belief in the law of small numbers. Psychological Bulletin, 76(2), 105\u2013110."", 
+      ""Tversky, A., & Kahneman, D. (1983). Extensional Versus Intuitive Reasoning: The Conjunction Fallacy in Probability Judgment. Psychological Review, 90(4)."", 
+      ""Tversky, A., & Thaler, R. H. (1990). Anomalies: Preference Reversals. Journal of Economic Perspectives, 4(2), 201\u2013211."", 
+      ""ur Rehman, T. (2016). Historical context of behavioral economics. Intellectual Economics, 10(2), 128\u2013132."", 
+      ""Vercelli, A. (2002). Uncertainty, rationality and learning: a Keynesian perspective. En Post Keynesian Econometrics, Microeconomics and the Theory of the Firm. Edward Elgar Publishing."", 
+      ""Villaca\u00f1as de Castro, L. S. (2011). Marx y el ejemplo (sobre los l\u00edmites de la racionalidad cient\u00edfica capitalista). Revista de Filosof\u00eda Moral Y Pol\u00edtica, (44), 89\u2013114."", 
+      ""Von Neumann, J., & Morgenstern, O. (1947). Theory of games and economic behavior, 2nd rev. ed. Princeton: Princeton University Press.""
+    ], 
+    ""keywords"": [
+      ""teor\u00eda econ\u00f3mica"", 
+      ""decisi\u00f3n"", 
+      ""racionalidad"", 
+      ""sesgos cognitivos""
+    ], 
+    ""publication_date"": ""2018-02-26"", 
+    ""creators"": [
+      {
+        ""orcid"": ""0000-0003-2572-1966"", 
+        ""affiliation"": ""MRes Student in Economics at UNED"", 
+        ""name"": ""Garc\u00eda-Garc\u00eda, Pablo""
+      }
+    ], 
+    ""access_right"": ""open"", 
+    ""resource_type"": {
+      ""subtype"": ""other"", 
+      ""type"": ""publication"", 
+      ""title"": ""Other""
+    }, 
+    ""related_identifiers"": [
+      {
+        ""scheme"": ""doi"", 
+        ""relation"": ""isVersionOf"", 
+        ""identifier"": ""10.5281/zenodo.1308673""
+      }
+    ]
+  }
+}"
+"
+
+10.5281/zenodo.1307803
+
+","{
+  ""files"": [
+    {
+      ""links"": {
+        ""self"": ""https://zenodo.org/api/files/9ff55ceb-9986-4c70-9d04-b0f2f56e52a1/Scientific%20and%20technological%20knowledge%20as%20a%20global%20public%20good%20the%20role%20of%20the%20Internet%20and%20the%20Open%20Access%20policies.pdf""
+      }, 
+      ""checksum"": ""md5:a11c483051471c5859d3e72bba354733"", 
+      ""bucket"": ""9ff55ceb-9986-4c70-9d04-b0f2f56e52a1"", 
+      ""key"": ""Scientific and technological knowledge as a global public good the role of the Internet and the Open Access policies.pdf"", 
+      ""type"": ""pdf"", 
+      ""size"": 221510
+    }
+  ], 
+  ""owners"": [
+    48427
+  ], 
+  ""doi"": ""10.5281/zenodo.1307803"", 
+  ""stats"": {
+    ""version_unique_downloads"": 174.0, 
+    ""unique_views"": 436.0, 
+    ""views"": 469.0, 
+    ""downloads"": 185.0, 
+    ""unique_downloads"": 174.0, 
+    ""version_unique_views"": 436.0, 
+    ""volume"": 40979350.0, 
+    ""version_downloads"": 185.0, 
+    ""version_views"": 469.0, 
+    ""version_volume"": 40979350.0
+  }, 
+  ""links"": {
+    ""doi"": ""https://doi.org/10.5281/zenodo.1307803"", 
+    ""conceptdoi"": ""https://doi.org/10.5281/zenodo.1307802"", 
+    ""bucket"": ""https://zenodo.org/api/files/9ff55ceb-9986-4c70-9d04-b0f2f56e52a1"", 
+    ""conceptbadge"": ""https://zenodo.org/badge/doi/10.5281/zenodo.1307802.svg"", 
+    ""html"": ""https://zenodo.org/record/1307803"", 
+    ""latest_html"": ""https://zenodo.org/record/1307803"", 
+    ""badge"": ""https://zenodo.org/badge/doi/10.5281/zenodo.1307803.svg"", 
+    ""latest"": ""https://zenodo.org/api/records/1307803""
+  }, 
+  ""conceptdoi"": ""10.5281/zenodo.1307802"", 
+  ""created"": ""2018-07-17T12:09:04.576716+00:00"", 
+  ""updated"": ""2019-04-09T14:02:48.307029+00:00"", 
+  ""conceptrecid"": ""1307802"", 
+  ""revision"": 7, 
+  ""id"": 1307803, 
+  ""metadata"": {
+    ""access_right_category"": ""success"", 
+    ""doi"": ""10.5281/zenodo.1307803"", 
+    ""description"": ""<p>Currently, a transition towards a knowledge economy is being completed. This paper delimits the fields of knowledge with an immediate economic relevance and confirms their global public good nature. This feature involves the existence of efficient provision problems, whose causes are analysed. Based on that analysis, some proposals to solve such provision problems are gathered, especially referred to the Internet and the Open Access policies.</p>"", 
+    ""license"": {
+      ""id"": ""CC-BY-4.0""
+    }, 
+    ""title"": ""Scientific and technological knowledge as a global public good: the role of the Internet and the Open Access policies"", 
+    ""language"": ""eng"", 
+    ""notes"": ""JEL Classification: D83, H87, L86, O3."", 
+    ""relations"": {
+      ""version"": [
+        {
+          ""count"": 1, 
+          ""index"": 0, 
+          ""parent"": {
+            ""pid_type"": ""recid"", 
+            ""pid_value"": ""1307802""
+          }, 
+          ""is_last"": true, 
+          ""last_child"": {
+            ""pid_type"": ""recid"", 
+            ""pid_value"": ""1307803""
+          }
+        }
+      ]
+    }, 
+    ""communities"": [
+      {
+        ""id"": ""economics""
+      }, 
+      {
+        ""id"": ""osr""
+      }
+    ], 
+    ""references"": [
+      ""Alizon, S. (2018). Inexpensive Research in the Golden Open-Access Era. Trends in Ecology & Evolution, 33(5), 301\u2013303. http://doi.org/10.1016/j.tree.2018.02.005"", 
+      ""Anderson, J., & Rainie, L. (2017). The Future of Truth and Misinformation Online (Vol. 19). Washington, D.C. http://assets.pewresearch.org/wp-content/uploads/sites/14/2017/10/19095643/PI_ 2017.10.19_Future-of-Truth-and-Misinformation_FINAL.pdf"", 
+      ""Anselin, L., Varga, A., & Acs, Z. J. (2000). Geographic and Sectoral Characteristics of Academic Knowledge Externalities. Papers in Regional Science, 79(4), 435\u2013443. http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.476.7802&rep=rep1&type=pdf"", 
+      ""Arrow, K. (1962). Economic Welfare and the Allocation of Resources for Invention. In The Rate and Direction of Inventive Activity: Economic and Social Factors (pp. 609\u2013626). Princeton: Princeton University Press. Beall, J. (2015). Criteria for Determining Predatory Open-Access Publishers. Denver. https://publica.upc.edu/sites/default/files/arxius_site/criteris_editorials_fraudulentes.pdf"", 
+      ""Berlin Declaration. (2003). Declaraci\u00f3n de Berl\u00edn sobre acceso abierto. Geotr\u00f3pico, 1(2), 152\u2013154. https://es.unesco.org/open-access/sites/open-access/files/Berlin_sp_0.pdf"", 
+      ""Bethesda Statement. (2003). Bethesda Statement on Open Access Publishing. http://legacy.earlham.edu/~peters/fos/bethesda.htm"", 
+      ""Bloom, B. S. (1956). Cognitive Domain. In Taxonomy of Educational Objective (Vol. 1). New York: McKay Co."", 
+      ""Budapest Initiative. (2001). Iniciativa de Budapest para el Acceso Abierto. http://www.budapestopenaccessinitiative.org/translations/spanish-translation"", 
+      ""Chan, L., Kirsop, B., & Arunachalam, S. (2011). Towards Open and Equitable Access to Research and Knowledge for Development. PLOS Medicine, 8(3). https://doi.org/10.1371/journal.pmed.1001016"", 
+      ""Creative Commons. (2018). Attribution 3.0 IGO \u2014 CC BY 3.0 IGO. https://creativecommons.org/licenses/by/3.0/igo/"", 
+      ""Daniele, A., & Filippetti, A. (2015). Knowledge as Global Public Good. In Conference DRUID15. Rome: DRUID society.  http://conference.druid.dk/acc_papers/kxn2p1s7ldmcdhlufu4hk78g8c8s.pdf"", 
+      ""Dutton, W., Dopatka, A., Hills, M., Law, G., & Nash, V. (2011). Freedom of Connection, freedom of expression: The Changing Legal and Regulatory Ecology Shaping the Internet. Oxford. http://unesdoc.unesco.org/images/0019/001915/191594e.pdf"", 
+      ""European Commission. (2018). Open Internet. https://ec.europa.eu/digital-single-market/en/open-internet-net-neutrality"", 
+      ""EUROSTAT. (2018). Internet access and use statistics - households and individuals. http://ec.europa.eu/eurostat/statistics-explained/index.php/Internet_access_and_use_statistics_-_households_and_individuals"", 
+      ""Fagiolo, M. (2012). El conocimiento como bien com\u00fan. Cayapa, 12(23), 65\u201383. http://www.redalyc.org/articulo.oa?id=62224968004"", 
+      ""FECYT. (2018). Declaraciones. https://recolecta.fecyt.es/declaraciones"", 
+      ""Gehringer, A. (2010). Pecuniary knowledge externalities and innovation: Intersectoral linkages and their effects beyond technological spillovers (No. 100). http://hdl.handle.net/10419/41564"", 
+      ""Gillies, A. (2012). Internet, Regulation and Censorship. In Encyclopedia of Applied Ethics (Second Edition) (pp. 752\u2013759). San Diego: Academic Press. http://doi.org/10.1016/B978-0-12-373932-2.00067-3"", 
+      ""Giovanni, P. (2002). Knowledge Flows and Knowledge Externalities (No. 765). http://hdl.handle.net/10419/76009"", 
+      ""Hayek, F. A. (1945). The use of knowledge in society. The American Economic Review, 35(4), 519\u2013530. http://www.jstor.org/stable/1809376"", 
+      ""Hodgson, G. (2006). What Are Institutions? Journal of Economic Issues, 40, 1\u201325. http://doi.org/10.1080/00213624.2006.11506879"", 
+      ""Huberman, B. A., & Lukose, R. M. (1997). Social Dilemmas and Internet Congestion. Science, 277(5325), 535\u2013537. http://doi.org/10.1126/science.277.5325.535"", 
+      ""Jang-Jaccard, J., & Nepal, S. (2014). A survey of emerging threats in cybersecurity. Journal of Computer and System Sciences, 80(5), 973\u2013993. http://doi.org/10.1016/J.JCSS.2014.02.005"", 
+      ""Kaul, I., Grunberg, I., & Stern, M. A. (1999). Global public goods\u202f: International Cooperation in the 21st Century. New York: Oxford University Press."", 
+      ""Koutras, N., & Bottis, M. (2013). Institutional Repositories of Open Access: A Paradigm of Innovation and Changing in Educational Politics. Procedia - Social and Behavioral Sciences, 106, 1499\u20131504. http://doi.org/10.1016/J.SBSPRO.2013.12.169"", 
+      ""Krugman, P., Olney, M. L., & Wells, R. (2008). Fundamentos de Econom\u00eda. Barcelona: Revert\u00e9."", 
+      ""Mar\u00edn, J. M., & Garc\u00eda-Verdugo, J. (2003). Bienes p\u00fablicos globales, pol\u00edtica econ\u00f3mica y globalizaci\u00f3n. Barcelona: Ariel Econom\u00eda, Editorial Planeta."", 
+      ""Marshall, A. (1890). The agents of production: land, labour, capital and organization. In Principles of Economics (Vol. 4). London: Macmillan and Co. http://www.econlib.org/library/Marshall/marP15.html"", 
+      ""Maskus, K. E., & Reichman, J. H. (2004). The Globalization of Private Knowledge Goods and the Privatization of Global Public Goods. Journal of International Economic Law, 7(2), 279\u2013320. http://doi.org/10.1093/jiel/7.2.279"", 
+      ""Mokyr, J. (2011). The gifts of Athena: Historical origins of the knowledge economy. Princeton: Princeton University Press. https://www.scopus.com/record/display.uri?eid=2-s2.0-84923950337&origin=inward&txGid=2e67d283003bb05eb0a9a7a62ff03a37"", 
+      ""OECD. (2018). PISA. http://www.oecd.org/pisa/"", 
+      ""Olssen, M., & Peters, M. A. (2005). Neoliberalism, higher education and the knowledge economy: from the free market to knowledge capitalism. Journal of Education Policy, 20(3), 313\u2013345. http://doi.org/10.1080/02680930500108718"", 
+      ""Papadimitriou, D., Welzl, M., Scharf, M., & Briscoe, B. (2011). Open research issues in Internet congestion control (Open research issues in Internet congestion control No. 6077)."", 
+      ""Parkin, M., & Esquivel, G. (2006). Microeconom\u00eda. Mexico: Pearson Educaci\u00f3n."", 
+      ""Perez-Sebastian, F. (2015). Market failure, government inefficiency, and optimal R&D policy. Economics Letters, 128, 43\u201347. http://doi.org/10.1016/j.econlet.2015.01.012"", 
+      ""Poushter, J. (2016). Smartphone Ownership and Internet Usage Continues to Climb in Emerging Economies But advanced economies still have higher rates of technology use. http://assets.pewresearch.org/wp-content/uploads/sites/2/2016/02/pew_research_center_global_technology_report_final_february_22__2016.pdf"", 
+      ""Pritchard, D. (2014). What is this thing called knowledge? (3rd edition). Oxford: Routledge."", 
+      ""Raspe, O., & van Oort, F. (2011). Growth of new firms and spatially bounded knowledge externalities. The Annals of Regional Science, 46, 495\u2013518. http://doi.org/10.1007/s00168-009-0357-9"", 
+      ""Robbins, L. (1932). Ensayo sobre la significaci\u00f3n y naturaleza de la ciencia econ\u00f3mica. London: MacMillan."", 
+      ""Romer, P. M. (1990). Endogenous Technological Change. Journal of Political Economy, 98(5), 71\u2013102. http://www.jstor.org/stable/2937632"", 
+      ""Samuelson, P. A. (1954). The Pure Theory of Public Expenditure. The Review of Economics and Statistics, 36(4), 387\u2013389. http://doi.org/10.2307/1925895"", 
+      ""Sandler, T. (1999). Intergenerational Public Goods. In I. Kaul, I. Grunberg, & M. A. Stern (Eds.), Global Public Goods: International Cooperation in the 21st Century. New York: Oxford University Press."", 
+      ""Searle, J. (2005). What is an institution? Journal of Institutional Economics, 1(1), 1\u201322. http://doi.org/10.1017/S1744137405000020"", 
+      ""Serrano-Vicente, R., Melero, R., & Abadal, E. (2016). Open Access Awareness and Perceptions in an Institutional Landscape. The Journal of Academic Librarianship, 42(5), 595\u2013603. http://doi.org/10.1016/j.acalib.2016.07.002"", 
+      ""Shen, C., & Bj\u00f6rk, B.-C. (2015). 'Predatory' open access: a longitudinal study of article volumes and market characteristics. BMC Medicine, 13(230), 1\u201315. http://doi.org/10.1186/s12916-015-0469-2"", 
+      ""Stiglitz, J. E. (1999a). Knowledge as a global public good. In Global Public Goods: International Cooperation in the 21st Century (pp. 308\u2013325). New York: Oxford University Press. https://www.researchgate.net/profile/Eugenio_Bobenrieth/publication/46440722_The_Political_Economy_of_International_Environmental_Cooperation/links/55ddb07308ae79830bb531ed/The-Political-Economy-of-International-Environmental-Cooperation.pdf#page=346"", 
+      ""Stiglitz, J. E. (1999b). Public Policy for a Knowledge Economy. Remarks at the Department for Trade and Industry and Center for Economic Policy Research, 27(3). http://cyberinet04.inet-tr.org.tr/akgul/BT-BE/knowledge-economy.pdf"", 
+      ""Swan, A. (2013). Directrices para Pol\u00edticas de Desarrollo y Promoci\u00f3n del Acceso Abierto. Paris. https://es.unesco.org/open-access/sites/open-access/files/222536S_0.pdf"", 
+      ""Tijssen, R. J. W. (2004). Is the commercialisation of scientific research affecting the production of public knowledge? Global trends in the output of corporate research articles. Research Policy, 33, 709\u2013733. http://doi.org/10.1016/j.respol.2003.11.002"", 
+      ""ITU. (2018). Statistics. https://www.itu.int/en/ITU-D/Statistics/Pages/stat/default.aspx"", 
+      ""UNDP. (2016). Human Development Index (HDI). http://hdr.undp.org/en/content/human-development-index-hdi"", 
+      ""UNESCO. (2013). Open Access Policy concerning UNESCO publications. Paris. https://es.unesco.org/open-access/sites/open-access/files/oa_policy_rev2_3.pdf"", 
+      ""UNESCO Statistics Institute. (2018). Education and R&D Statistics. http://data.uis.unesco.org/Index.aspx"", 
+      ""Van De Walle, S. (2016). When public services fail: A research agenda on public service failure. Journal of Service Management, 27(5). https://lirias.kuleuven.be/bitstream/123456789/557663/1/WhenPublicServicesFail-2806_final.pdf""
+    ], 
+    ""keywords"": [
+      ""knowledge"", 
+      ""global public goods"", 
+      ""Internet"", 
+      ""Open Access""
+    ], 
+    ""publication_date"": ""2018-07-04"", 
+    ""creators"": [
+      {
+        ""orcid"": ""0000-0003-2572-1966"", 
+        ""affiliation"": ""MRes Student in Economics at UNED"", 
+        ""name"": ""Garc\u00eda-Garc\u00eda, Pablo""
+      }
+    ], 
+    ""access_right"": ""open"", 
+    ""resource_type"": {
+      ""subtype"": ""other"", 
+      ""type"": ""publication"", 
+      ""title"": ""Other""
+    }, 
+    ""related_identifiers"": [
+      {
+        ""scheme"": ""doi"", 
+        ""relation"": ""isVersionOf"", 
+        ""identifier"": ""10.5281/zenodo.1307802""
+      }
+    ]
+  }
+}"
+"
+
+10.5281/zenodo.1249365
+
+","{
+  ""files"": [
+    {
+      ""links"": {
+        ""self"": ""https://zenodo.org/api/files/a66f90c0-0b6a-415c-b636-463f4b628a72/6.pdf""
+      }, 
+      ""checksum"": ""md5:fe93620826430b1171741a11eac8f73a"", 
+      ""bucket"": ""a66f90c0-0b6a-415c-b636-463f4b628a72"", 
+      ""key"": ""6.pdf"", 
+      ""type"": ""pdf"", 
+      ""size"": 775962
+    }
+  ], 
+  ""owners"": [
+    42770
+  ], 
+  ""doi"": ""10.5281/zenodo.1249365"", 
+  ""stats"": {
+    ""version_unique_downloads"": 54.0, 
+    ""unique_views"": 82.0, 
+    ""views"": 91.0, 
+    ""downloads"": 35.0, 
+    ""unique_downloads"": 35.0, 
+    ""version_unique_views"": 108.0, 
+    ""volume"": 27158670.0, 
+    ""version_downloads"": 66.0, 
+    ""version_views"": 133.0, 
+    ""version_volume"": 50633358.0
+  }, 
+  ""links"": {
+    ""doi"": ""https://doi.org/10.5281/zenodo.1249365"", 
+    ""conceptdoi"": ""https://doi.org/10.5281/zenodo.1186981"", 
+    ""bucket"": ""https://zenodo.org/api/files/a66f90c0-0b6a-415c-b636-463f4b628a72"", 
+    ""conceptbadge"": ""https://zenodo.org/badge/doi/10.5281/zenodo.1186981.svg"", 
+    ""html"": ""https://zenodo.org/record/1249365"", 
+    ""latest_html"": ""https://zenodo.org/record/1249365"", 
+    ""badge"": ""https://zenodo.org/badge/doi/10.5281/zenodo.1249365.svg"", 
+    ""latest"": ""https://zenodo.org/api/records/1249365""
+  }, 
+  ""conceptdoi"": ""10.5281/zenodo.1186981"", 
+  ""created"": ""2018-05-18T10:22:16.560844+00:00"", 
+  ""updated"": ""2019-04-27T13:13:00.573672+00:00"", 
+  ""conceptrecid"": ""1186981"", 
+  ""revision"": 10, 
+  ""id"": 1249365, 
+  ""metadata"": {
+    ""access_right_category"": ""success"", 
+    ""doi"": ""10.5281/zenodo.1249365"", 
+    ""description"": ""<p>This paper proposes a theory of optimal public expenditure when unemployment is inefficient. The theory is based on a matching model. Optimal public expenditure deviates from the Samuelson rule to reduce the unemployment gap (the difference between current and efficient unemployment rates). Such optimal &quot;stimulus spending&#39;&#39; is described by a formula expressed with three sufficient statistics: the unemployment gap, the unemployment multiplier (the decrease in unemployment achieved by increasing public expenditure), and the elasticity of substitution between public and private consumption. When unemployment is inefficiently high and the multiplier is positive, the formula yields the following results. (a) Optimal stimulus spending is positive and increasing in the unemployment gap. (b) Optimal stimulus spending is zero for a zero multiplier, increasing in the multiplier for small multipliers, largest for a moderate multiplier, and decreasing in the multiplier beyond that. (c) Optimal stimulus spending is zero if extra public goods have no value, it becomes larger as the elasticity of substitution increases, and it completely fills the unemployment gap if extra public goods are as valuable as extra private goods.</p>"", 
+    ""license"": {
+      ""id"": ""CC-BY-4.0""
+    }, 
+    ""title"": ""Optimal Public Expenditure with Inefficient Unemployment"", 
+    ""journal"": {
+      ""volume"": ""86 (3)"", 
+      ""pages"": ""1301\u20131331"", 
+      ""title"": ""Review of Economic Studies""
+    }, 
+    ""relations"": {
+      ""version"": [
+        {
+          ""count"": 2, 
+          ""index"": 1, 
+          ""parent"": {
+            ""pid_type"": ""recid"", 
+            ""pid_value"": ""1186981""
+          }, 
+          ""is_last"": true, 
+          ""last_child"": {
+            ""pid_type"": ""recid"", 
+            ""pid_value"": ""1249365""
+          }
+        }
+      ]
+    }, 
+    ""communities"": [
+      {
+        ""id"": ""economics""
+      }
+    ], 
+    ""publication_date"": ""2019-05-01"", 
+    ""creators"": [
+      {
+        ""orcid"": ""0000-0003-2381-7470"", 
+        ""affiliation"": ""Brown University"", 
+        ""name"": ""Michaillat, Pascal""
+      }, 
+      {
+        ""affiliation"": ""University of California -- Berkeley"", 
+        ""name"": ""Saez, Emmanuel""
+      }
+    ], 
+    ""access_right"": ""open"", 
+    ""resource_type"": {
+      ""subtype"": ""article"", 
+      ""type"": ""publication"", 
+      ""title"": ""Journal article""
+    }, 
+    ""related_identifiers"": [
+      {
+        ""scheme"": ""doi"", 
+        ""relation"": ""isPreviousVersionOf"", 
+        ""identifier"": ""10.1093/restud/rdy030""
+      }, 
+      {
+        ""scheme"": ""doi"", 
+        ""relation"": ""isVersionOf"", 
+        ""identifier"": ""10.5281/zenodo.1186981""
+      }
+    ]
+  }
+}"
+"
+
+10.5281/zenodo.1237258
+
+","{
+  ""files"": [
+    {
+      ""links"": {
+        ""self"": ""https://zenodo.org/api/files/090eca5b-2f17-46c2-ad84-8e09c7dac76c/7.pdf""
+      }, 
+      ""checksum"": ""md5:995899ff911ceaec32fc935d4426bb13"", 
+      ""bucket"": ""090eca5b-2f17-46c2-ad84-8e09c7dac76c"", 
+      ""key"": ""7.pdf"", 
+      ""type"": ""pdf"", 
+      ""size"": 576985
+    }
+  ], 
+  ""owners"": [
+    42770
+  ], 
+  ""doi"": ""10.5281/zenodo.1237258"", 
+  ""stats"": {
+    ""version_unique_downloads"": 42.0, 
+    ""unique_views"": 83.0, 
+    ""views"": 91.0, 
+    ""downloads"": 43.0, 
+    ""unique_downloads"": 42.0, 
+    ""version_unique_views"": 83.0, 
+    ""volume"": 24810355.0, 
+    ""version_downloads"": 43.0, 
+    ""version_views"": 91.0, 
+    ""version_volume"": 24810355.0
+  }, 
+  ""links"": {
+    ""doi"": ""https://doi.org/10.5281/zenodo.1237258"", 
+    ""conceptdoi"": ""https://doi.org/10.5281/zenodo.1237257"", 
+    ""bucket"": ""https://zenodo.org/api/files/090eca5b-2f17-46c2-ad84-8e09c7dac76c"", 
+    ""conceptbadge"": ""https://zenodo.org/badge/doi/10.5281/zenodo.1237257.svg"", 
+    ""html"": ""https://zenodo.org/record/1237258"", 
+    ""latest_html"": ""https://zenodo.org/record/1237258"", 
+    ""badge"": ""https://zenodo.org/badge/doi/10.5281/zenodo.1237258.svg"", 
+    ""latest"": ""https://zenodo.org/api/records/1237258""
+  }, 
+  ""conceptdoi"": ""10.5281/zenodo.1237257"", 
+  ""created"": ""2018-04-30T01:24:57.094414+00:00"", 
+  ""updated"": ""2019-04-09T13:43:47.818463+00:00"", 
+  ""conceptrecid"": ""1237257"", 
+  ""revision"": 6, 
+  ""id"": 1237258, 
+  ""metadata"": {
+    ""access_right_category"": ""success"", 
+    ""doi"": ""10.5281/zenodo.1237258"", 
+    ""description"": ""<p>In recent decades in the United States, slack on the product and labor markets has fluctuated a lot over the business cycle while inflation has been very stable. Motivated by this observation, we develop a business-cycle model in which fluctuations in demand and supply lead to fluctuations in slack but not in inflation. Our model extends the money-in-the-utility-function model by introducing matching frictions and including real wealth in the utility function. Matching frictions allow us to represent slack and to consider a general equilibrium with constant inflation. Wealth in the utility function enriches the aggregate demand structure. We use the model to study the effects of various aggregate demand and supply shocks, and to analyze several stabilization policies. As a byproduct, the model provides a microfoundation for the IS-LM model and an explanation for permanent liquidity traps with positive inflation and unemployment. Last, we combine directed search with costly price adjustments to generate a Phillips curve that describes the joint dynamics of inflation and slack in the medium run.&nbsp;</p>"", 
+    ""license"": {
+      ""id"": ""CC-BY-4.0""
+    }, 
+    ""title"": ""An Economical Business-Cycle Model"", 
+    ""relations"": {
+      ""version"": [
+        {
+          ""count"": 1, 
+          ""index"": 0, 
+          ""parent"": {
+            ""pid_type"": ""recid"", 
+            ""pid_value"": ""1237257""
+          }, 
+          ""is_last"": true, 
+          ""last_child"": {
+            ""pid_type"": ""recid"", 
+            ""pid_value"": ""1237258""
+          }
+        }
+      ]
+    }, 
+    ""communities"": [
+      {
+        ""id"": ""economics""
+      }
+    ], 
+    ""publication_date"": ""2015-04-10"", 
+    ""creators"": [
+      {
+        ""orcid"": ""0000-0003-2381-7470"", 
+        ""affiliation"": ""Brown University"", 
+        ""name"": ""Michaillat, Pascal""
+      }, 
+      {
+        ""affiliation"": ""University of California -- Berkeley"", 
+        ""name"": ""Saez, Emmanuel""
+      }
+    ], 
+    ""access_right"": ""open"", 
+    ""resource_type"": {
+      ""subtype"": ""workingpaper"", 
+      ""type"": ""publication"", 
+      ""title"": ""Working paper""
+    }, 
+    ""related_identifiers"": [
+      {
+        ""scheme"": ""doi"", 
+        ""relation"": ""isNewVersionOf"", 
+        ""identifier"": ""10.3386/w19777""
+      }, 
+      {
+        ""scheme"": ""doi"", 
+        ""relation"": ""isVersionOf"", 
+        ""identifier"": ""10.5281/zenodo.1237257""
+      }
+    ]
+  }
+}"
+"
+
+10.5281/zenodo.580607
+
+","{
+  ""files"": [
+    {
+      ""links"": {
+        ""self"": ""https://zenodo.org/api/files/42b14d9f-b281-473c-b268-dd6c48e9d12c/meisserecon/agentecon-ComputationalEconomicsPaper.zip""
+      }, 
+      ""checksum"": ""md5:ce0fda63ab4af4496d95da6728d5ed08"", 
+      ""bucket"": ""42b14d9f-b281-473c-b268-dd6c48e9d12c"", 
+      ""key"": ""meisserecon/agentecon-ComputationalEconomicsPaper.zip"", 
+      ""type"": ""zip"", 
+      ""size"": 13733909
+    }
+  ], 
+  ""owners"": [
+    31529
+  ], 
+  ""doi"": ""10.5281/zenodo.580607"", 
+  ""stats"": {
+    ""version_unique_downloads"": 0.0, 
+    ""unique_views"": 9.0, 
+    ""views"": 9.0, 
+    ""downloads"": 0.0, 
+    ""unique_downloads"": 0.0, 
+    ""version_unique_views"": 10.0, 
+    ""volume"": 0.0, 
+    ""version_downloads"": 0.0, 
+    ""version_views"": 11.0, 
+    ""version_volume"": 0.0
+  }, 
+  ""links"": {
+    ""doi"": ""https://doi.org/10.5281/zenodo.580607"", 
+    ""conceptdoi"": ""https://doi.org/10.5281/zenodo.593546"", 
+    ""bucket"": ""https://zenodo.org/api/files/42b14d9f-b281-473c-b268-dd6c48e9d12c"", 
+    ""conceptbadge"": ""https://zenodo.org/badge/doi/10.5281/zenodo.593546.svg"", 
+    ""html"": ""https://zenodo.org/record/580607"", 
+    ""latest_html"": ""https://zenodo.org/record/580607"", 
+    ""badge"": ""https://zenodo.org/badge/doi/10.5281/zenodo.580607.svg"", 
+    ""latest"": ""https://zenodo.org/api/records/580607""
+  }, 
+  ""conceptdoi"": ""10.5281/zenodo.593546"", 
+  ""created"": ""2017-05-17T11:52:23.872136+00:00"", 
+  ""updated"": ""2019-04-10T03:33:51.754844+00:00"", 
+  ""conceptrecid"": ""593546"", 
+  ""revision"": 7, 
+  ""id"": 580607, 
+  ""metadata"": {
+    ""access_right_category"": ""success"", 
+    ""doi"": ""10.5281/zenodo.580607"", 
+    ""description"": ""<p>This is the source code of the model described in the paper \""An Agent-Based Simulation of the Stolper-Samuelson Effect\"", which was published in the journal Computational Economics.</p>\n\n<p>DOI of the paper: 10.1007/s10614-016-9616-x</p>\n\n<p>Publisher information: https://link.springer.com/article/10.1007%2Fs10614-016-9616-x</p>"", 
+    ""license"": {
+      ""id"": ""MIT""
+    }, 
+    ""title"": ""An Agent-Based Simulation of the Stolper-Samuelson Effect"", 
+    ""journal"": {
+      ""title"": ""Computational Economics""
+    }, 
+    ""relations"": {
+      ""version"": [
+        {
+          ""count"": 2, 
+          ""index"": 1, 
+          ""parent"": {
+            ""pid_type"": ""recid"", 
+            ""pid_value"": ""593546""
+          }, 
+          ""is_last"": true, 
+          ""last_child"": {
+            ""pid_type"": ""recid"", 
+            ""pid_value"": ""580607""
+          }
+        }
+      ]
+    }, 
+    ""communities"": [
+      {
+        ""id"": ""abe""
+      }, 
+      {
+        ""id"": ""economics""
+      }
+    ], 
+    ""version"": ""ComputationalEconomicsPaper"", 
+    ""keywords"": [
+      ""agent-based economics""
+    ], 
+    ""publication_date"": ""2016-08-24"", 
+    ""creators"": [
+      {
+        ""affiliation"": ""University of Zurich"", 
+        ""name"": ""Meisser, Luzius""
+      }, 
+      {
+        ""affiliation"": ""Stellenbosch University"", 
+        ""name"": ""Kreuser, Carl Friedrich""
+      }
+    ], 
+    ""access_right"": ""open"", 
+    ""resource_type"": {
+      ""type"": ""software"", 
+      ""title"": ""Software""
+    }, 
+    ""related_identifiers"": [
+      {
+        ""scheme"": ""url"", 
+        ""relation"": ""isSupplementTo"", 
+        ""identifier"": ""https://github.com/meisserecon/agentecon/tree/ComputationalEconomicsPaper""
+      }, 
+      {
+        ""scheme"": ""doi"", 
+        ""relation"": ""isSupplementTo"", 
+        ""identifier"": ""10.1007/s10614-016-9616-x""
+      }, 
+      {
+        ""scheme"": ""doi"", 
+        ""relation"": ""isVersionOf"", 
+        ""identifier"": ""10.5281/zenodo.593546""
+      }
+    ]
+  }
+}"
+"
+
+10.2139/ssrn.2221299
+
+","{
+  ""files"": [
+    {
+      ""links"": {
+        ""self"": ""https://zenodo.org/api/files/5d565580-4d0f-4817-bde6-f9a6ecfdba36/05STI2013_new.pdf""
+      }, 
+      ""checksum"": ""md5:4199b4d58ca3eedf621af059e1737945"", 
+      ""bucket"": ""5d565580-4d0f-4817-bde6-f9a6ecfdba36"", 
+      ""key"": ""05STI2013_new.pdf"", 
+      ""type"": ""pdf"", 
+      ""size"": 1014048
+    }
+  ], 
+  ""owners"": [
+    28988
+  ], 
+  ""doi"": ""10.2139/ssrn.2221299"", 
+  ""stats"": {
+    ""version_unique_downloads"": 78.0, 
+    ""unique_views"": 8.0, 
+    ""views"": 8.0, 
+    ""downloads"": 80.0, 
+    ""unique_downloads"": 78.0, 
+    ""version_unique_views"": 8.0, 
+    ""volume"": 81123840.0, 
+    ""version_downloads"": 80.0, 
+    ""version_views"": 8.0, 
+    ""version_volume"": 81123840.0
+  }, 
+  ""links"": {
+    ""doi"": ""https://doi.org/10.2139/ssrn.2221299"", 
+    ""latest_html"": ""https://zenodo.org/record/556456"", 
+    ""bucket"": ""https://zenodo.org/api/files/5d565580-4d0f-4817-bde6-f9a6ecfdba36"", 
+    ""badge"": ""https://zenodo.org/badge/doi/10.2139/ssrn.2221299.svg"", 
+    ""html"": ""https://zenodo.org/record/556456"", 
+    ""latest"": ""https://zenodo.org/api/records/556456""
+  }, 
+  ""created"": ""2017-04-20T21:15:31.454775+00:00"", 
+  ""updated"": ""2019-04-10T04:12:13.864498+00:00"", 
+  ""conceptrecid"": ""797256"", 
+  ""revision"": 8, 
+  ""id"": 556456, 
+  ""metadata"": {
+    ""access_right_category"": ""success"", 
+    ""doi"": ""10.2139/ssrn.2221299"", 
+    ""description"": ""<p>\u00a0Available at SSRN:\u00a0https://ssrn.com/abstract=2221299\u00a0or\u00a0http://dx.doi.org/10.2139/ssrn.2221299</p>\n\n<p>This paper is devoted to the analysis of evolution of innovation concepts, aspect and types. First emergence and evolution of different aspects and concepts of innovation are analysed, then the development of innovation concepts from a historical perspective and finally an overview given of types of innovation classifications developed in the literature. Surrounding this different definitions of innovation are described and analyzed in detail. The main goal of the article is to define the trend of development of innovation conceptualization and understanding over time.</p>\n\n<p>Available at SSRN:\u00a0https://ssrn.com/abstract=2221299\u00a0or\u00a0http://dx.doi.org/10.2139/ssrn.2221299</p>\n\n<p>\u00a0</p>"", 
+    ""license"": {
+      ""id"": ""CC-BY-4.0""
+    }, 
+    ""title"": ""Innovation Concepts and Typology \u2013 An Evolutionary Discussion"", 
+    ""notes"": ""Kotsemir, Maxim Nikolaevich and Abroskin, Alexander and Meissner, Dirk, Innovation Concepts and Typology \u2013 An Evolutionary Discussion (February 20, 2013). Higher School of Economics Research Paper No. WP BRP 05/STI/2013. Available at SSRN: https://ssrn.com/abstract=2221299 or http://dx.doi.org/10.2139/ssrn.2221299"", 
+    ""relations"": {
+      ""version"": [
+        {
+          ""count"": 1, 
+          ""index"": 0, 
+          ""parent"": {
+            ""pid_type"": ""recid"", 
+            ""pid_value"": ""797256""
+          }, 
+          ""is_last"": true, 
+          ""last_child"": {
+            ""pid_type"": ""recid"", 
+            ""pid_value"": ""556456""
+          }
+        }
+      ]
+    }, 
+    ""communities"": [
+      {
+        ""id"": ""economics""
+      }
+    ], 
+    ""keywords"": [
+      ""innovation concepts"", 
+      ""innovation types"", 
+      ""aspects of innovation""
+    ], 
+    ""publication_date"": ""2013-02-20"", 
+    ""creators"": [
+      {
+        ""affiliation"": ""National Research University Higher School of Economics"", 
+        ""name"": ""Kotsemir, Maxim""
+      }, 
+      {
+        ""affiliation"": ""Russian Presidential Academy of National Economy and Public Administration; Gaidar Institute for Economic Policy"", 
+        ""name"": ""Abroskin, Alexander""
+      }, 
+      {
+        ""affiliation"": ""National Research University Higher School of Economics"", 
+        ""name"": ""Meissner, Dirk""
+      }
+    ], 
+    ""access_right"": ""open"", 
+    ""resource_type"": {
+      ""subtype"": ""workingpaper"", 
+      ""type"": ""publication"", 
+      ""title"": ""Working paper""
+    }, 
+    ""related_identifiers"": [
+      {
+        ""scheme"": ""url"", 
+        ""relation"": ""isIdenticalTo"", 
+        ""identifier"": ""https://ssrn.com/abstract=2221299""
+      }, 
+      {
+        ""scheme"": ""doi"", 
+        ""relation"": ""isIdenticalTo"", 
+        ""identifier"": ""10.2139/ssrn.2221299""
+      }, 
+      {
+        ""scheme"": ""url"", 
+        ""relation"": ""isIdenticalTo"", 
+        ""identifier"": ""https://www.academia.edu/23739827/Conceptualizing_the_innovation_process_towards_the_active_innovation_paradigm_trends_and_outlook""
+      }
+    ]
+  }
+}"
+"
+
+10.1186/s13731-016-0042-z
+
+","{
+  ""files"": [
+    {
+      ""links"": {
+        ""self"": ""https://zenodo.org/api/files/02f0b609-7e9e-4857-b2c6-f487a5c387b0/Kotsemir%20Meissner%202016.pdf""
+      }, 
+      ""checksum"": ""md5:768651288e0a15f3d7f04a04a837e610"", 
+      ""bucket"": ""02f0b609-7e9e-4857-b2c6-f487a5c387b0"", 
+      ""key"": ""Kotsemir Meissner 2016.pdf"", 
+      ""type"": ""pdf"", 
+      ""size"": 597467
+    }
+  ], 
+  ""owners"": [
+    28988
+  ], 
+  ""doi"": ""10.1186/s13731-016-0042-z"", 
+  ""stats"": {
+    ""version_unique_downloads"": 29.0, 
+    ""unique_views"": 17.0, 
+    ""views"": 17.0, 
+    ""downloads"": 30.0, 
+    ""unique_downloads"": 29.0, 
+    ""version_unique_views"": 17.0, 
+    ""volume"": 17924010.0, 
+    ""version_downloads"": 30.0, 
+    ""version_views"": 17.0, 
+    ""version_volume"": 17924010.0
+  }, 
+  ""links"": {
+    ""doi"": ""https://doi.org/10.1186/s13731-016-0042-z"", 
+    ""latest_html"": ""https://zenodo.org/record/322715"", 
+    ""bucket"": ""https://zenodo.org/api/files/02f0b609-7e9e-4857-b2c6-f487a5c387b0"", 
+    ""badge"": ""https://zenodo.org/badge/doi/10.1186/s13731-016-0042-z.svg"", 
+    ""html"": ""https://zenodo.org/record/322715"", 
+    ""latest"": ""https://zenodo.org/api/records/322715""
+  }, 
+  ""created"": ""2017-04-20T21:08:35.001551+00:00"", 
+  ""updated"": ""2019-04-10T04:07:09.077508+00:00"", 
+  ""conceptrecid"": ""777125"", 
+  ""revision"": 6, 
+  ""id"": 322715, 
+  ""metadata"": {
+    ""access_right_category"": ""success"", 
+    ""doi"": ""10.1186/s13731-016-0042-z"", 
+    ""description"": ""<p>Available at SSRN:\u00a0https://ssrn.com/abstract=2755005</p>\n\n<p>This paper introduces the evolving understanding and conceptualization of innovation process models. We categorize the different approaches to understand and model innovation processes into two types. First, the so-called innovation management approach focuses on the evolution of corporate innovation management strategies in different social and economic environments. The second type is the conceptual approach which analyses the evolution of innovation models themselves as well as the models\u2019 theoretical backgrounds and requirements. The focus in this second approach is the advantages and disadvantages of different innovation models in how far they can describe the reality of innovation processes.<br>\n<br>\nThe paper focuses on the advantages and disadvantages as well as the potential and limitations of the approaches. It also proposes potential future developments of innovation models as well as the analysis of the driving forces that underlie the evolution of innovation models.<br>\n<br>\nThe article concludes that the predominant open innovation paradigm requires rethinking and further development towards an \u2018active innovation\u2019 paradigm.</p>"", 
+    ""license"": {
+      ""id"": ""CC-BY-4.0""
+    }, 
+    ""title"": ""Conceptualizing the Innovation Process Towards the 'Active Innovation Paradigm' \u2014 Trends and Outlook"", 
+    ""notes"": ""Available at SSRN:\u00a0https://ssrn.com/abstract=2755005"", 
+    ""relations"": {
+      ""version"": [
+        {
+          ""count"": 1, 
+          ""index"": 0, 
+          ""parent"": {
+            ""pid_type"": ""recid"", 
+            ""pid_value"": ""777125""
+          }, 
+          ""is_last"": true, 
+          ""last_child"": {
+            ""pid_type"": ""recid"", 
+            ""pid_value"": ""322715""
+          }
+        }
+      ]
+    }, 
+    ""communities"": [
+      {
+        ""id"": ""economics""
+      }
+    ], 
+    ""keywords"": [
+      ""Active innovation"", 
+      ""Innovation models"", 
+      ""Innovation process"", 
+      ""Generations of innovation models"", 
+      ""Process dimension of innovation"", 
+      ""Evolution of innovation models"", 
+      ""Innovation management""
+    ], 
+    ""publication_date"": ""2016-03-25"", 
+    ""creators"": [
+      {
+        ""affiliation"": ""National Research University Higher School of Economics"", 
+        ""name"": ""Meissner, Dirk""
+      }, 
+      {
+        ""affiliation"": ""National Research University Higher School of Economics"", 
+        ""name"": ""Kotsemir, Maxim""
+      }
+    ], 
+    ""access_right"": ""open"", 
+    ""resource_type"": {
+      ""subtype"": ""article"", 
+      ""type"": ""publication"", 
+      ""title"": ""Journal article""
+    }, 
+    ""related_identifiers"": [
+      {
+        ""scheme"": ""url"", 
+        ""relation"": ""isIdenticalTo"", 
+        ""identifier"": ""https://ssrn.com/abstract=2221299""
+      }, 
+      {
+        ""scheme"": ""doi"", 
+        ""relation"": ""isIdenticalTo"", 
+        ""identifier"": ""10.2139/ssrn.2221299""
+      }, 
+      {
+        ""scheme"": ""url"", 
+        ""relation"": ""isIdenticalTo"", 
+        ""identifier"": ""https://www.academia.edu/18038962/Innovation_Concepts_and_Typology_An_Evolutionary_Discussion""
+      }
+    ]
+  }
+}"
+"
+
+10.5281/zenodo.165847
+
+","{
+  ""files"": [
+    {
+      ""links"": {
+        ""self"": ""https://zenodo.org/api/files/41347a93-5b53-4cc3-bdf8-16cea2979e88/SSRN-id2881093_FiscalPolicy.pdf""
+      }, 
+      ""checksum"": ""md5:ecd47b67641ce1059b895e3907822e09"", 
+      ""bucket"": ""41347a93-5b53-4cc3-bdf8-16cea2979e88"", 
+      ""key"": ""SSRN-id2881093_FiscalPolicy.pdf"", 
+      ""type"": ""pdf"", 
+      ""size"": 320222
+    }
+  ], 
+  ""owners"": [
+    25255
+  ], 
+  ""doi"": ""10.5281/zenodo.165847"", 
+  ""stats"": {
+    ""version_unique_downloads"": 19.0, 
+    ""unique_views"": 24.0, 
+    ""views"": 28.0, 
+    ""downloads"": 21.0, 
+    ""unique_downloads"": 19.0, 
+    ""version_unique_views"": 24.0, 
+    ""volume"": 6724662.0, 
+    ""version_downloads"": 21.0, 
+    ""version_views"": 28.0, 
+    ""version_volume"": 6724662.0
+  }, 
+  ""links"": {
+    ""doi"": ""https://doi.org/10.5281/zenodo.165847"", 
+    ""latest_html"": ""https://zenodo.org/record/165847"", 
+    ""bucket"": ""https://zenodo.org/api/files/41347a93-5b53-4cc3-bdf8-16cea2979e88"", 
+    ""badge"": ""https://zenodo.org/badge/doi/10.5281/zenodo.165847.svg"", 
+    ""html"": ""https://zenodo.org/record/165847"", 
+    ""latest"": ""https://zenodo.org/api/records/165847""
+  }, 
+  ""created"": ""2017-01-29T06:02:04.453978+00:00"", 
+  ""updated"": ""2018-03-01T11:06:24.550675+00:00"", 
+  ""conceptrecid"": ""752166"", 
+  ""revision"": 5, 
+  ""id"": 165847, 
+  ""metadata"": {
+    ""access_right_category"": ""success"", 
+    ""doi"": ""10.5281/zenodo.165847"", 
+    ""description"": ""<p>This study of fiscal policy in State Budget (APBN) 2017 that the task of the Indonesian government to run them to create prosperity for the community. The state budget is prepared using the rules of public economics consisting of state revenues, state expenditures, and budget financing have the posture of the budget, the issues of fiscal policy, and the role of the government in carrying out its functions. With the analysis of Islamic economics, fiscal policy in the State Budget 2017 is the duty of the government to implement the budget for the public welfare with indicators on aspects of religion (religious life), life (justice and security), intellect (education), descent (health and social security family), and treasure (income distribution and access to employment).</p>"", 
+    ""contributors"": [
+      {
+        ""affiliation"": ""IAIN Syekh Nurjati Cirebon"", 
+        ""type"": ""Researcher"", 
+        ""name"": ""Jaelani, Aan""
+      }
+    ], 
+    ""title"": ""Fiscal Policy in Indonesia: Analysis of State Budget 2017  in Islamic Economic Perspective"", 
+    ""license"": {
+      ""id"": ""CC-BY-4.0""
+    }, 
+    ""journal"": {
+      ""volume"": ""7"", 
+      ""issue"": ""2"", 
+      ""pages"": ""1-19"", 
+      ""title"": ""Econometric Modeling: Macroeconomics eJournal (SSRN Electronic Journals)""
+    }, 
+    ""relations"": {
+      ""version"": [
+        {
+          ""count"": 1, 
+          ""index"": 0, 
+          ""parent"": {
+            ""pid_type"": ""recid"", 
+            ""pid_value"": ""752166""
+          }, 
+          ""is_last"": true, 
+          ""last_child"": {
+            ""pid_type"": ""recid"", 
+            ""pid_value"": ""165847""
+          }
+        }
+      ]
+    }, 
+    ""access_right"": ""open"", 
+    ""communities"": [
+      {
+        ""id"": ""ecfunded""
+      }, 
+      {
+        ""id"": ""economics""
+      }
+    ], 
+    ""grants"": [
+      {
+        ""code"": ""293786"", 
+        ""links"": {
+          ""self"": ""https://zenodo.org/api/grants/10.13039/501100000780::293786""
+        }, 
+        ""title"": ""ECONOMICS OF OPEN SOURCE"", 
+        ""acronym"": ""ECONOPENSOURCE"", 
+        ""program"": ""FP7"", 
+        ""funder"": {
+          ""doi"": ""10.13039/501100000780"", 
+          ""acronyms"": [
+            ""EC""
+          ], 
+          ""name"": ""European Commission"", 
+          ""links"": {
+            ""self"": ""https://zenodo.org/api/funders/10.13039/501100000780""
+          }
+        }
+      }, 
+      {
+        ""code"": ""618562"", 
+        ""links"": {
+          ""self"": ""https://zenodo.org/api/grants/10.13039/501100000780::618562""
+        }, 
+        ""title"": ""Econometric Modelling of Short Panels with Applications in Financial Econometrics"", 
+        ""acronym"": ""CSDPD_CP"", 
+        ""program"": ""FP7"", 
+        ""funder"": {
+          ""doi"": ""10.13039/501100000780"", 
+          ""acronyms"": [
+            ""EC""
+          ], 
+          ""name"": ""European Commission"", 
+          ""links"": {
+            ""self"": ""https://zenodo.org/api/funders/10.13039/501100000780""
+          }
+        }
+      }, 
+      {
+        ""code"": ""234825"", 
+        ""links"": {
+          ""self"": ""https://zenodo.org/api/grants/10.13039/501100000780::234825""
+        }, 
+        ""title"": ""Effectiveness of Central Bank Communication"", 
+        ""acronym"": ""ECONOMETRICS_CBC"", 
+        ""program"": ""FP7"", 
+        ""funder"": {
+          ""doi"": ""10.13039/501100000780"", 
+          ""acronyms"": [
+            ""EC""
+          ], 
+          ""name"": ""European Commission"", 
+          ""links"": {
+            ""self"": ""https://zenodo.org/api/funders/10.13039/501100000780""
+          }
+        }
+      }
+    ], 
+    ""references"": [
+      ""Abimanyu, A. (2011). Refleksi dan gagasan kebijakan fiskal. Jakarta: Gramedia Pustaka Utama."", 
+      ""Adam, R., et al. (2004). Persaingan dan ekonomi pasar di Indonesia.Jakarta: Friedrich Nauman Stiftung"", 
+      ""Ahmed, Z., Iqbal, M and Fahim Khan, M. (eds.). (1983). Fiscal policy and resource allocation in Islam. Jeddah: King Abdul Aziz University."", 
+      ""Al-Mawardi, A.H.A. (1995). Adab al-dunya wa-al-din. Beirut: Dar al-Fikr."", 
+      ""Al-Mawardi, A.H.A. (1996). Al-ahkam al-sulthaniyah wa wilayat al-diniyah. Beirut: Dar al-Fikr."", 
+      ""Al-Mawardi, A.H.A. (1983). Nashihat al-muluk. Beirut: Dar al-Fikr"", 
+      ""Al-Syatibi, A.I. (1975). Al-Muwafaqat fi ushul al-shari'a. Cairo: al-Maktabah al-Tijaniyah al-Kubra."", 
+      ""Amir, H. & Faisal Hastiadi, F. (ed.). (2016). Dinamika kebijakan fiskal merespon ketidakpastian global. Jakarta: Gramedia Pustaka Utama."", 
+      ""Auerbach, A.J. (2003). Fiscal policy, past and present. Brookings Papers on Economic Activity, 1(75), Spring 2003."", 
+      ""Auerbach, A.J. & Gale, W. G. (2009). Activist fiscal policy to stabilize economic activity. Conference Proceedings of Financial Stability and Macroeconomic Policy, August 20-22, 2009, Jackson Hole, Wyoming."", 
+      ""Auerbach, A.J. & Kotlicoff, L.J. (1987). Dynamic fiscal policy. Cambridge: Cambridge University Press.  Barratut, S.M. (ed.) (2016). Sri Mulyani menyiapkan lima langkah fiskal. National Konten, October 2016, Retrieved from http://nasional.kontan.co.id/news/."", 
+      ""Bartha, Z., & Gubik, A.S. (2012). The significance of fiscal space in Europe's response to the crisis. MPRA Paper No. 40346. Retrieved from https://mpra.ub.uni-muenchen.de/40346/."", 
+      ""Biyuni, S. (1983). Al-Fikr al-siyasi 'inda al-Mawardi. Cairo: Dar al-Tsaqafah li al-Nashr wa-al-Tauzi'."", 
+      ""Blanchard, O., Dell'Arricia, G., & Mauro P. (2010). Rethinking macroeconomic policy. IMF Staff Position Note, SPN/10/03."", 
+      ""Boediono. (2016). APBN jangan digunakan sebagai alat politik. Sindonews, November 30. Retrieved from http://ekbis.sindonews.com/read/1159397/ 33/boediono-apbn-jangan-digunakan-sebagai-alat-politik-1480493736)."", 
+      ""European Comission. (2009). Economic crisis in Europe: causes, consequences and responses. Luxembourg: Office for Official Publications of the European Communities."", 
+      ""Gunawan, A.H. (1991). Anggaran pemerintah dan inflasi di Indonesia.Jakarta: Gramedia Pustaka Utama."", 
+      ""Hansen, A.H. (1949). Monetary theory and fiscal policy. London: McGraw-Hill Book Company, Inc."", 
+      ""Hansen, B. (2008). The economic theory of fiscal policy (public economics). Amazon: Routledge."", 
+      ""Howard, M. (2001). Public sector economics for developing countries. Barbados: University Press of the West Indies."", 
+      ""Indawati, S.M. (2016a). Six development goals in 2017 state budget. The Ministry of Finance Held a Press Conference Regarding The 2017 State Budget, November 7. Retrieved from http://www.kemenkeu.go.id/en/Berita/six-development-goals-2017-state-budget)."", 
+      ""Indrawati, S. M. (2016). Sri Mulyani katakan RAPBN 2017 tak sehat, ini penjelasannya. Sindonews, Agustus 16. Retrieved from http://ekbis.sindonews. com/read/1131763/33/."", 
+      ""Indrawati, S.M. (2016b). Minister of Finance delivers policies in APBN 2017. Kompas 100 CEO Forum, November 24 Retrieved from http://www.kemenkeu.go.id/en/ berita/minister-finance-delivers-policies-apbn-2017-kompas-100-ceo-forum)."", 
+      ""Iqbal, Z. (2003). An Islamic perspective on public finance. Australia: University of South Australia."", 
+      ""Jaelani, A. (2014). Keuangan publik Islam: Refleksi APBN dan politik anggaran di Indonesia. Cirebon: Nurjati Press."", 
+      ""Jaelani, A. (2015). Public financial management in Indonesia: Review of Islamic public finance. MPRA Paper No. 72340. Available at SSRN: https://ssrn.com/abstract=2807095 or http://dx.doi.org/10.2139/ssrn.2807095."", 
+      ""Julaid, M. (1995). Qira'at fi al-maliyat al-'ammah fi al-Islam. Jeddah: IDB-IRTI."", 
+      ""Kahf, M. (ed.). (2001). Al-siyasah al-iqtisadiyah fi itsar al-nidzami al-Islami. Madinah: Shirkah al-Madinah al-Munawwarah."", 
+      ""Kementerian Keuangan RI. (2016). Buku II nota keuangan beserta rancangan anggaran pendapatan dan belanja negara tahun anggaran 2017. Jakarta: Kemenkeu."", 
+      ""Kementerian Keuangan RI. (2016). Undang-undang RI No. 18 Tahun 2016 tentang anggaran pendapatan dan belanja Negara tahun anggaran 2017. Jakarta: Kemenkeu."", 
+      ""Kisihandi, F. (ed.). RAPBN 2017 kurang sehat. Republika, Agustus 18. Retrieved from http://www.republika.co.id/berita/koran/halaman-1/16/08/18/oc3fg717-rapbn-2017-kurang-sehat."", 
+      ""Mankiw, G. N. (2010). Questions about fiscal policy: Implications from the financial crisis of 2008-2009. Federal Reserve Bank of St. Louis Review, 92(3), 177-183."", 
+      ""Mannan, M. A. (1991). Islamic economics: Theory and practice. Pakistan, Lahore: Shah Muhammad Ashraf Publishers."", 
+      ""Musgrave, R.A. & Peacock, A. (ed.). (1958). Classics in the theory of public finance. New York: Macmillan."", 
+      ""Ramona Mara, E, Inceu, A., Cuceu, I., & Violeta Achim, M. (2009).The impact of economic crisis on the fiscal revenues. MPRA Paper No. 20978. Retrieved from http://mpra.ub.uni-muenchen.de/20978/."", 
+      ""Shaikh Ahmad, M. (1995). Economics of Islam: A comparative study. Pakistan, Lahore: Shah Muhammad Ashraf Publishers."", 
+      ""Siddiqi, M.N. (1992). Teaching public finance in Islamic perspective. Jeddah: Centre for Research in Islamic Economics King Abdul Aziz University."", 
+      ""Siddiqi, S.A. (1962). Public finance in Islam. Pakistan, Lahore: Shah Muhammad Ashraf Publishers."", 
+      ""Sodik, J. (2007). Pengeluaran pemerintah dan pertumbuhan ekonomi regional: Studi kasus data panel di Indonesia. Jurnal Ekonomi Pembangunan, 12(1)."", 
+      ""Spilimbergo, A., Symanski, S., Blanchard, O., & Cottarelli, C. (2008). Fiscal policy for the crisis. IMF Staff Position Note, SPN/08/01."", 
+      ""Sri Rahayu, A. (2010). Pengantar kebijakan fiskal. Jakarta: Bumi Aksara."", 
+      ""Syadullah, M. & Afdi Nizar, M. (2013). Kebijakan fiskal teori & praktek di Indonesia. Jakarta: Observation & Research of Taxation (ortax).""
+    ], 
+    ""notes"": ""Available at MPRA Paper No. 75545: https://mpra.ub.uni-muenchen.de/75445/ & SSRN: https://ssrn.com/abstract=2881093"", 
+    ""keywords"": [
+      ""fiscal policy"", 
+      ""state budget"", 
+      ""welfare"", 
+      ""maqashid shariah"", 
+      ""Islamic economics""
+    ], 
+    ""publication_date"": ""2017-01-03"", 
+    ""creators"": [
+      {
+        ""affiliation"": ""IAIN Syekh Nurjati Cirebon"", 
+        ""name"": ""Jaelani, Aan""
+      }
+    ], 
+    ""subjects"": [
+      {
+        ""term"": ""E62"", 
+        ""scheme"": ""url"", 
+        ""identifier"": ""https://mpra.ub.uni-muenchen.de/view/subjects/""
+      }, 
+      {
+        ""term"": ""F52"", 
+        ""scheme"": ""url"", 
+        ""identifier"": ""https://mpra.ub.uni-muenchen.de/view/subjects/""
+      }, 
+      {
+        ""term"": ""G18"", 
+        ""scheme"": ""url"", 
+        ""identifier"": ""https://mpra.ub.uni-muenchen.de/view/subjects/""
+      }, 
+      {
+        ""term"": ""H61"", 
+        ""scheme"": ""url"", 
+        ""identifier"": ""https://mpra.ub.uni-muenchen.de/view/subjects/""
+      }, 
+      {
+        ""term"": ""O23"", 
+        ""scheme"": ""url"", 
+        ""identifier"": ""https://mpra.ub.uni-muenchen.de/view/subjects/""
+      }, 
+      {
+        ""term"": ""P43"", 
+        ""scheme"": ""url"", 
+        ""identifier"": ""https://mpra.ub.uni-muenchen.de/view/subjects/""
+      }
+    ], 
+    ""resource_type"": {
+      ""subtype"": ""article"", 
+      ""type"": ""publication"", 
+      ""title"": ""Journal article""
+    }, 
+    ""related_identifiers"": [
+      {
+        ""scheme"": ""url"", 
+        ""relation"": ""isIdenticalTo"", 
+        ""identifier"": ""https://mpra.ub.uni-muenchen.de/75445/""
+      }, 
+      {
+        ""scheme"": ""url"", 
+        ""relation"": ""isIdenticalTo"", 
+        ""identifier"": ""https://ssrn.com/abstract=2881093""
+      }, 
+      {
+        ""scheme"": ""url"", 
+        ""relation"": ""isCompiledBy"", 
+        ""identifier"": ""http://EconPapers.repec.org/RePEc:pra:mprapa:75445""
+      }
+    ]
+  }
+}"
+"
+
+10.5281/zenodo.227092
+
+","{
+  ""files"": [
+    {
+      ""links"": {
+        ""self"": ""https://zenodo.org/api/files/cadb1d57-da54-4e3f-9b36-3cefc7d094ce/SSRN-id2807095%20public%20mngmnt.pdf""
+      }, 
+      ""checksum"": ""md5:ce7498e098c09b45763543060761fab3"", 
+      ""bucket"": ""cadb1d57-da54-4e3f-9b36-3cefc7d094ce"", 
+      ""key"": ""SSRN-id2807095 public mngmnt.pdf"", 
+      ""type"": ""pdf"", 
+      ""size"": 406788
+    }
+  ], 
+  ""owners"": [
+    25255
+  ], 
+  ""doi"": ""10.5281/zenodo.227092"", 
+  ""stats"": {
+    ""version_unique_downloads"": 11.0, 
+    ""unique_views"": 17.0, 
+    ""views"": 17.0, 
+    ""downloads"": 11.0, 
+    ""unique_downloads"": 11.0, 
+    ""version_unique_views"": 17.0, 
+    ""volume"": 4474668.0, 
+    ""version_downloads"": 11.0, 
+    ""version_views"": 17.0, 
+    ""version_volume"": 4474668.0
+  }, 
+  ""links"": {
+    ""doi"": ""https://doi.org/10.5281/zenodo.227092"", 
+    ""latest_html"": ""https://zenodo.org/record/227092"", 
+    ""bucket"": ""https://zenodo.org/api/files/cadb1d57-da54-4e3f-9b36-3cefc7d094ce"", 
+    ""badge"": ""https://zenodo.org/badge/doi/10.5281/zenodo.227092.svg"", 
+    ""html"": ""https://zenodo.org/record/227092"", 
+    ""latest"": ""https://zenodo.org/api/records/227092""
+  }, 
+  ""created"": ""2017-01-01T11:41:54.487567+00:00"", 
+  ""updated"": ""2018-03-01T11:06:58.508773+00:00"", 
+  ""conceptrecid"": ""712046"", 
+  ""revision"": 5, 
+  ""id"": 227092, 
+  ""metadata"": {
+    ""access_right_category"": ""success"", 
+    ""doi"": ""10.5281/zenodo.227092"", 
+    ""description"": ""<p>Public financial management by the government is very important in view of the level of welfare in Indonesia is still low, as there are still much poverty with the level of fulfillment of the needs of low, corruption that occurs in every area of government, income distribution is uneven, low economic growth, and various irregularities other budget. With a qualitative approach that emphasises the phenomenon of the social reality and the country's financial management practices in Indonesia, the approach to history and historical analysis is able to provide solutions to the existing problems. Reviewing public financial revenues and government spending become instruments in creating public welfare.</p>"", 
+    ""contributors"": [
+      {
+        ""affiliation"": ""IAIN Syekh Nurjati Cirebon"", 
+        ""type"": ""Researcher"", 
+        ""name"": ""Jaelani, Aan""
+      }
+    ], 
+    ""title"": ""Public Financial Management in Indonesia: Review of Islamic Public Finance"", 
+    ""license"": {
+      ""id"": ""CC-BY-4.0""
+    }, 
+    ""journal"": {
+      ""volume"": ""10"", 
+      ""issue"": ""60"", 
+      ""pages"": ""19"", 
+      ""title"": ""European Economics: Political Economy & Public Economics eJournal (SSRN Electronic Journal)""
+    }, 
+    ""relations"": {
+      ""version"": [
+        {
+          ""count"": 1, 
+          ""index"": 0, 
+          ""parent"": {
+            ""pid_type"": ""recid"", 
+            ""pid_value"": ""712046""
+          }, 
+          ""is_last"": true, 
+          ""last_child"": {
+            ""pid_type"": ""recid"", 
+            ""pid_value"": ""227092""
+          }
+        }
+      ]
+    }, 
+    ""access_right"": ""open"", 
+    ""communities"": [
+      {
+        ""id"": ""economics""
+      }
+    ], 
+    ""grants"": [
+      {
+        ""code"": ""283484"", 
+        ""links"": {
+          ""self"": ""https://zenodo.org/api/grants/10.13039/501100000780::283484""
+        }, 
+        ""title"": ""Economic Allocations in Social Networks: Evidence and Theory"", 
+        ""acronym"": ""NETWORKS"", 
+        ""program"": ""FP7"", 
+        ""funder"": {
+          ""doi"": ""10.13039/501100000780"", 
+          ""acronyms"": [
+            ""EC""
+          ], 
+          ""name"": ""European Commission"", 
+          ""links"": {
+            ""self"": ""https://zenodo.org/api/funders/10.13039/501100000780""
+          }
+        }
+      }, 
+      {
+        ""code"": ""293786"", 
+        ""links"": {
+          ""self"": ""https://zenodo.org/api/grants/10.13039/501100000780::293786""
+        }, 
+        ""title"": ""ECONOMICS OF OPEN SOURCE"", 
+        ""acronym"": ""ECONOPENSOURCE"", 
+        ""program"": ""FP7"", 
+        ""funder"": {
+          ""doi"": ""10.13039/501100000780"", 
+          ""acronyms"": [
+            ""EC""
+          ], 
+          ""name"": ""European Commission"", 
+          ""links"": {
+            ""self"": ""https://zenodo.org/api/funders/10.13039/501100000780""
+          }
+        }
+      }, 
+      {
+        ""code"": ""284927"", 
+        ""links"": {
+          ""self"": ""https://zenodo.org/api/grants/10.13039/501100000780::284927""
+        }, 
+        ""title"": ""Public Empowerment Policies for Crisis Management"", 
+        ""acronym"": ""PEP"", 
+        ""program"": ""FP7"", 
+        ""funder"": {
+          ""doi"": ""10.13039/501100000780"", 
+          ""acronyms"": [
+            ""EC""
+          ], 
+          ""name"": ""European Commission"", 
+          ""links"": {
+            ""self"": ""https://zenodo.org/api/funders/10.13039/501100000780""
+          }
+        }
+      }
+    ], 
+    ""references"": [
+      ""Abdullah, Taufik (ed.) (1987), Sejarah dan masyarakat: Lintasan historis Islam di Indonesia, Jakarta, Yayasan Obor Indonesia."", 
+      ""Abimanyu, Anggito (2004), Format anggaran terpadu menghilangkan tumpang tindih, Kompas, Mei 2004."", 
+      ""Aghnide (1969), Mohammedan theories of finance, New York, McGraw-Hill, Inc."", 
+      ""Akram Khan, Mohammad (2009), Public finance in Islam: A bibliography of works in English), Jeddah, Islamic Economics Research Centre King Abdul Aziz University."", 
+      ""Al-Mawardi, Abu Hasan Ali (1983), Nashihah al-muluk, Kuwait, Maktabah al-Fallah."", 
+      ""Al-Mawardi, Abu Hasan Ali (1996), Al-Ahkam al-sulthaniyah wa-wilayat al-diniyah, Beirut, Dar al-Fikr."", 
+      ""Azmi, Sabahuddin (2002), Islamic economics: public finance in early Islamic thought, New Delhi, Goodword Books."", 
+      ""Balaji, 'Abd al-Salam (2000), Al-maliyat al-'ammah 'inda al-Mawardi wa-Ibn Khaldun, al-Mansurah, Dar al-Kalimah li al-Nashr wa al-Tawzi'."", 
+      ""Bappenas (2002), Public good governance: Sebuah paparan singkat, Jakarta, Sekretariat Pengembangan Public Good Governance."", 
+      ""Buchanan, J.M. (1967), Public finance in democratic process, Chapel Hill, N.C., University of North Carolina Press."", 
+      ""Choudhury, M.A. (1992), The foundation of Islamic political economy, London, Eng., Macmillan & New York."", 
+      ""Choudhury, M.A. (1993), The principles of Islamic political economy: A methodological enquiry, London, Eng., Macmillan & New York."", 
+      ""Edgeworth, Francis Y. (1897), The pure theory of taxation, Economic Journal, 7."", 
+      ""Faridi (1983/1403), Theory of fiscal policy in an Islamic state, Journal Res. Islamic Economic, 1(1)."", 
+      ""Ghadi, Yasin (1994), Al-amwal wa al-amlak al-'ammah fi al-Islam wa hukm al-i'tida' 'alaiha, Mu'tah: Mu'assasah Ram."", 
+      ""Glazer, Amihai & Rothenberg, Lawrence (2001), Why government succeeds and why it fails, Cambridge MA, Harvard University Press."", 
+      ""Hakim, Abdul (2006), Reformasi pengelolaan dan pertanggungjawaban keuangan daerah, Yogyakart, Fakultas Ekonomi UGM."", 
+      ""Ibn Taymiyah (n.d.), Al-Hisbah fi al-Islam aw wadzifah al-hukumat al-Islamiyah, Madinah, Islamic University."", 
+      ""Iqbal, Zafar (2003), An Islamic perspective on public finance, University of South Australia."", 
+      ""Irfan Rana (1977), Economic system under Umar the Great, Lahore."", 
+      ""Islahi, Abdul Azim (2004), Contributions of Muslim scholars to economic thought and analysis (11-905 A.H./632-1500 A.D), Jeddah, IERC King Abdul Aziz University."", 
+      ""Jaelani, Aan (2006), Masyarakat Islam dalam pandangan al-Mawardi, Bandung, Pustaka Setia."", 
+      ""Jaelani, Aan (2013), Institusi pasar dan hisbah: Teori pasar dalam sejarah pemikiran ekonomi Islam, Cirebon, Syari'ah Nurjati Press."", 
+      ""Julayd, Mahmud (1995/1415), Qira'at fi al-maliyat al-'ammah fi al-Islam, Jeddah: IDB-IRTI."", 
+      ""Karim, Adiwarman Azwar (2006), Sejarah pemikiran ekonomi Islam, Jakarta, Rajawali Pers."", 
+      ""Krippendorf, Klaus (1991), Content analysis, Translated by Faridj Wajidi (1991), Analisis isi, Jakarta, Rajawali Press."", 
+      ""Mishra, Ramesh (2000), Globalization and the welfare state, London, McMillan."", 
+      ""Muhadjir, Noeng (1998), Metodologi penelitian kualitatif, Yogyakarta, Rake Sarasin."", 
+      ""Musgrave, Richard & Peacock, Alan (eds.) (1958), Classic in the theory of public finance, New York, Macmillan."", 
+      ""Musgrave, Richard A. (1959), The theory of public finance, New York, McGraw-Hill."", 
+      ""Nazir, M., (1984), Metode penelitian, Jakarta, Ghalia Indonesia."", 
+      ""Pigau, A.C. (1951), A study in public finance, London, Macmillan."", 
+      ""Ramsey, F.P. (1927), A contribution to the theory of taxation, Economic Journal, 37."", 
+      ""Rossen, Harvey S. (2002), Public finance: Essay for the encyclopaedia of public choice, CEPS Working Paper No. 80, March, Princeton University."", 
+      ""Rossen, Harvey S. & Gayer, Ted (2008), Public finance, New York, McGraw-Hill."", 
+      ""Salanie, Bernard (2000), Microeconomics of market failure, Cambridge MA, MIT Press."", 
+      ""Salomo, Roy V. (1998), Public expenditure management handbook, Washington, D.C., The World Bank."", 
+      ""Salomo, Roy V. (2003), Anggaran yang berorientasi pada kinerja dan kepemerintahan yang baik, Jurnal Forum Inovasi, 5, Desember-Februari."", 
+      ""Samuelson, Paul A. (1954), The pure theory of public expenditure, Review of Economics and Statistics, 36."", 
+      ""Shemesh, Ben (1965), Taxation in Islam, Leiden, E.J. Brill."", 
+      ""Siddiqi, M. Nejatullah (1992/1413), Teaching public finance in Islamic perspective, Jeddah, Centre for Research in Islamic Economics King Abdul Aziz University."", 
+      ""Siddiqui, S.A. (1965), Public finance in Islam, Lahore, Sh. Muh. Ashraf."", 
+      ""Soediyono R. (1992), Ekonomi makro pengantar analisis pendapatan nasional, Yogyakarta, Liberty."", 
+      ""Soetrisno PH (1981), Dasar-dasar ilmu keuangan negara, Yogyakarta, FE-UGM."", 
+      ""Suharto, Edi (2005), Membangun masyarakat memberdayakan rakyat: Kajian strategis pembangunan kesejahteraan sosial dan pekerjaan sosial, Bandung, Refika Aditama"", 
+      ""Suparmoko, M. (2003), Keuangan negara: Dalam teori dan praktek, Yogyakarta, BPFE.""
+    ], 
+    ""notes"": ""Proceedings International Conference on Islamic Economics and Business (ICONIES), \""Strengthening Islamic Economics in Facing Asian Economic Community (AEC)\"".1(2015): pp. 1-17. Faculty of Economy, State Islamic University Maulana Malik Ibrahim Malang Indonesia"", 
+    ""keywords"": [
+      ""Budget management"", 
+      ""Public Finance"", 
+      ""Budgeting"", 
+      ""Welfare""
+    ], 
+    ""publication_date"": ""2017-01-01"", 
+    ""creators"": [
+      {
+        ""affiliation"": ""IAIN Syekh Nurjati Cirebon"", 
+        ""name"": ""Jaelani, Aan""
+      }
+    ], 
+    ""meeting"": {
+      ""dates"": ""2-3 Nopember 2015"", 
+      ""title"": ""International Conference on Islamic Economics and Business"", 
+      ""acronym"": ""ICONIES"", 
+      ""url"": ""http://www.fe.uin-malang.ac.id"", 
+      ""session"": ""II"", 
+      ""place"": ""Malang, Indonesia"", 
+      ""session_part"": ""1""
+    }, 
+    ""subjects"": [
+      {
+        ""term"": ""B15 - Historical; Institutional; Evolutionary"", 
+        ""scheme"": ""url"", 
+        ""identifier"": ""https://papers.ssrn.com/sol3/displayjel.cfm""
+      }, 
+      {
+        ""term"": ""E62 - Fiscal Policy"", 
+        ""scheme"": ""url"", 
+        ""identifier"": ""https://papers.ssrn.com/sol3/displayjel.cfm""
+      }, 
+      {
+        ""term"": ""H27 - Other Sources of Revenue"", 
+        ""scheme"": ""url"", 
+        ""identifier"": ""https://papers.ssrn.com/sol3/displayjel.cfm""
+      }, 
+      {
+        ""term"": ""P35 - Public Finance"", 
+        ""scheme"": ""url"", 
+        ""identifier"": ""https://papers.ssrn.com/sol3/displayjel.cfm""
+      }, 
+      {
+        ""term"": ""P43 - Public Economics; Financial Economics"", 
+        ""scheme"": ""url"", 
+        ""identifier"": ""https://papers.ssrn.com/sol3/displayjel.cfm""
+      }, 
+      {
+        ""term"": ""Z18 - Public Policy"", 
+        ""scheme"": ""url"", 
+        ""identifier"": ""https://papers.ssrn.com/sol3/displayjel.cfm""
+      }
+    ], 
+    ""resource_type"": {
+      ""subtype"": ""article"", 
+      ""type"": ""publication"", 
+      ""title"": ""Journal article""
+    }, 
+    ""related_identifiers"": [
+      {
+        ""scheme"": ""doi"", 
+        ""relation"": ""isIdenticalTo"", 
+        ""identifier"": ""10.2139/ssrn.2807095""
+      }, 
+      {
+        ""scheme"": ""url"", 
+        ""relation"": ""isIdenticalTo"", 
+        ""identifier"": ""https://mpra.ub.uni-muenchen.de/72340/""
+      }, 
+      {
+        ""scheme"": ""url"", 
+        ""relation"": ""isIdenticalTo"", 
+        ""identifier"": ""http://EconPapers.repec.org/RePEc:pra:mprapa:72340""
+      }
+    ]
+  }
+}"
+"
+
+10.5281/zenodo.167836
+
+","{
+  ""files"": [
+    {
+      ""links"": {
+        ""self"": ""https://zenodo.org/api/files/20b3c9da-4f18-4d71-bab0-70fc40d76090/MSc_thesis.pdf""
+      }, 
+      ""checksum"": ""md5:1d8a8723be2bd6448422112c52788d5d"", 
+      ""bucket"": ""20b3c9da-4f18-4d71-bab0-70fc40d76090"", 
+      ""key"": ""MSc_thesis.pdf"", 
+      ""type"": ""pdf"", 
+      ""size"": 1473698
+    }
+  ], 
+  ""owners"": [
+    25848
+  ], 
+  ""doi"": ""10.5281/zenodo.167836"", 
+  ""stats"": {
+    ""version_unique_downloads"": 18.0, 
+    ""unique_views"": 9.0, 
+    ""views"": 9.0, 
+    ""downloads"": 20.0, 
+    ""unique_downloads"": 18.0, 
+    ""version_unique_views"": 9.0, 
+    ""volume"": 29473960.0, 
+    ""version_downloads"": 20.0, 
+    ""version_views"": 9.0, 
+    ""version_volume"": 29473960.0
+  }, 
+  ""links"": {
+    ""doi"": ""https://doi.org/10.5281/zenodo.167836"", 
+    ""latest_html"": ""https://zenodo.org/record/167836"", 
+    ""bucket"": ""https://zenodo.org/api/files/20b3c9da-4f18-4d71-bab0-70fc40d76090"", 
+    ""badge"": ""https://zenodo.org/badge/doi/10.5281/zenodo.167836.svg"", 
+    ""html"": ""https://zenodo.org/record/167836"", 
+    ""latest"": ""https://zenodo.org/api/records/167836""
+  }, 
+  ""created"": ""2016-11-21T15:36:06.246881+00:00"", 
+  ""updated"": ""2018-03-01T11:07:25.840084+00:00"", 
+  ""conceptrecid"": ""666188"", 
+  ""revision"": 4, 
+  ""id"": 167836, 
+  ""metadata"": {
+    ""access_right_category"": ""success"", 
+    ""doi"": ""10.5281/zenodo.167836"", 
+    ""description"": ""<p>A study was done to determine sorghum grain attributes that consumers prefer. This was after the realisation that consumption and marketability of sorghum was low compared to other cereals.The low consumption/marketability is attributed to undesirable consumer attributes in the current varieties. Breeders efforts have mostly been on production\u00a0attributes like yield, resistance to weeds, pests and diseases and quick maturity. No efforts have been directed towards consumer attributes. Subsquently, this study was done to identify the desirable attributes that consumers of sorghum prefer and also to estimate how much consumers would be willing to pay for the attributes. This would help in the breeding program, and hence increase consumption and marketability of sorghum. A choice experiment research methodology was used to collect data on consumer preferences. A Bayesian effecient design was used to generate 24 choice scenarios\u00a0which were presented to consumers for evaluation. The 24 scenarios\u00a0were randomly blocked into six and a consumer\u00a0was presented with one of the blocks (each block with four choice scenarios). Each scenario had two hypothetical varieties and a baseline variety. A consumer was expected to evaluate the four choice scenarios and make a choice. The choice data was analysed using a Mixed Logit model with the aid of Limdep/Nlogit software.\u00a0</p>"", 
+    ""license"": {
+      ""id"": ""CC-BY-4.0""
+    }, 
+    ""title"": ""Analyzing consumer preferences for quality characteristics of sorghum grain: a study in Teso Sub-region of Uganda"", 
+    ""relations"": {
+      ""version"": [
+        {
+          ""count"": 1, 
+          ""index"": 0, 
+          ""parent"": {
+            ""pid_type"": ""recid"", 
+            ""pid_value"": ""666188""
+          }, 
+          ""is_last"": true, 
+          ""last_child"": {
+            ""pid_type"": ""recid"", 
+            ""pid_value"": ""167836""
+          }
+        }
+      ]
+    }, 
+    ""communities"": [
+      {
+        ""id"": ""economics""
+      }
+    ], 
+    ""thesis"": {
+      ""university"": ""Makerere University"", 
+      ""supervisors"": [
+        {
+          ""affiliation"": ""Makerere University"", 
+          ""name"": ""Fredrick Bagamba""
+        }, 
+        {
+          ""affiliation"": ""Makerere University"", 
+          ""name"": ""Patrick Okori""
+        }
+      ]
+    }, 
+    ""keywords"": [
+      ""Sorghum, consumer preferences, choice experiment, mixed logit, Uganda""
+    ], 
+    ""publication_date"": ""2016-11-21"", 
+    ""creators"": [
+      {
+        ""name"": ""Kakuru, Kit Medard""
+      }
+    ], 
+    ""access_right"": ""open"", 
+    ""resource_type"": {
+      ""subtype"": ""thesis"", 
+      ""type"": ""publication"", 
+      ""title"": ""Thesis""
+    }
+  }
+}"
+"
+
+10.5281/zenodo.164031
+
+","{
+  ""files"": [
+    {
+      ""links"": {
+        ""self"": ""https://zenodo.org/api/files/115c2206-8b83-4a7e-a4fd-94ad925f29a4/0%20Bab3Religiousheritagetourismecirebon_engl.compressed.pdf""
+      }, 
+      ""checksum"": ""md5:0c9efb0113ad8c91660fffa8a4ce442c"", 
+      ""bucket"": ""115c2206-8b83-4a7e-a4fd-94ad925f29a4"", 
+      ""key"": ""0 Bab3Religiousheritagetourismecirebon_engl.compressed.pdf"", 
+      ""type"": ""pdf"", 
+      ""size"": 144635
+    }
+  ], 
+  ""owners"": [
+    25255
+  ], 
+  ""doi"": ""10.5281/zenodo.164031"", 
+  ""stats"": {
+    ""version_unique_downloads"": 15.0, 
+    ""unique_views"": 10.0, 
+    ""views"": 10.0, 
+    ""downloads"": 18.0, 
+    ""unique_downloads"": 15.0, 
+    ""version_unique_views"": 10.0, 
+    ""volume"": 2603430.0, 
+    ""version_downloads"": 18.0, 
+    ""version_views"": 10.0, 
+    ""version_volume"": 2603430.0
+  }, 
+  ""links"": {
+    ""doi"": ""https://doi.org/10.5281/zenodo.164031"", 
+    ""latest_html"": ""https://zenodo.org/record/164031"", 
+    ""bucket"": ""https://zenodo.org/api/files/115c2206-8b83-4a7e-a4fd-94ad925f29a4"", 
+    ""badge"": ""https://zenodo.org/badge/doi/10.5281/zenodo.164031.svg"", 
+    ""html"": ""https://zenodo.org/record/164031"", 
+    ""latest"": ""https://zenodo.org/api/records/164031""
+  }, 
+  ""created"": ""2016-11-05T05:29:28.478239+00:00"", 
+  ""updated"": ""2017-09-08T07:35:12.160196+00:00"", 
+  ""conceptrecid"": ""658954"", 
+  ""revision"": 4, 
+  ""id"": 164031, 
+  ""metadata"": {
+    ""access_right_category"": ""success"", 
+    ""doi"": ""10.5281/zenodo.164031"", 
+    ""description"": ""<p>Cirebon has an element of completeness in tourism management. Religious, heritage and tourism is a combination of three industry from the perspective of economics that play a role in the development of tourism and has the potential to encourage people's creativity in the economic sector. With a qualitative approach, this study confirms the religious heritage and the creative economy tourism the icon for Cirebon in developing the tourism industry, including travel and religious culture as well as a variety of culinary and crafts.</p>"", 
+    ""contributors"": [
+      {
+        ""affiliation"": ""IAIN Syekh Nurjati Cirebon"", 
+        ""type"": ""Researcher"", 
+        ""name"": ""Jaelani, Aan""
+      }, 
+      {
+        ""affiliation"": ""IAIN Syekh Nurjati Cirebon"", 
+        ""type"": ""Researcher"", 
+        ""name"": ""Setyawan, Edy""
+      }, 
+      {
+        ""affiliation"": ""IAIN Syekh Nurjati Cirebon"", 
+        ""type"": ""Researcher"", 
+        ""name"": ""Hasyim, Nursyamsudin""
+      }
+    ], 
+    ""title"": ""Religious Heritage Tourism and Creative Economy in Cirebon: The Diversity of Religious, Cultures and Culinary"", 
+    ""license"": {
+      ""id"": ""CC-BY-4.0""
+    }, 
+    ""journal"": {
+      ""volume"": ""3"", 
+      ""issue"": ""1"", 
+      ""pages"": ""63-76"", 
+      ""title"": ""Journal of Social and Administrative Sciences""
+    }, 
+    ""relations"": {
+      ""version"": [
+        {
+          ""count"": 1, 
+          ""index"": 0, 
+          ""parent"": {
+            ""pid_type"": ""recid"", 
+            ""pid_value"": ""658954""
+          }, 
+          ""is_last"": true, 
+          ""last_child"": {
+            ""pid_type"": ""recid"", 
+            ""pid_value"": ""164031""
+          }
+        }
+      ]
+    }, 
+    ""access_right"": ""open"", 
+    ""communities"": [
+      {
+        ""id"": ""ecfunded""
+      }, 
+      {
+        ""id"": ""economics""
+      }
+    ], 
+    ""grants"": [
+      {
+        ""code"": ""340362"", 
+        ""links"": {
+          ""self"": ""https://zenodo.org/api/grants/10.13039/501100000780::340362""
+        }, 
+        ""title"": ""The Early Islamic Empire at WorkThe View from the Regions Toward the Centre"", 
+        ""acronym"": ""ISLAMIC EMPIRE"", 
+        ""program"": ""FP7"", 
+        ""funder"": {
+          ""doi"": ""10.13039/501100000780"", 
+          ""acronyms"": [
+            ""EC""
+          ], 
+          ""name"": ""European Commission"", 
+          ""links"": {
+            ""self"": ""https://zenodo.org/api/funders/10.13039/501100000780""
+          }
+        }
+      }, 
+      {
+        ""code"": ""639564"", 
+        ""links"": {
+          ""self"": ""https://zenodo.org/api/grants/10.13039/501100000780::639564""
+        }, 
+        ""title"": ""Cultural Heritage and Economic Development in International and European Law"", 
+        ""acronym"": ""HERITAGE"", 
+        ""program"": ""H2020"", 
+        ""funder"": {
+          ""doi"": ""10.13039/501100000780"", 
+          ""acronyms"": [
+            ""EC""
+          ], 
+          ""name"": ""European Commission"", 
+          ""links"": {
+            ""self"": ""https://zenodo.org/api/funders/10.13039/501100000780""
+          }
+        }
+      }
+    ], 
+    ""references"": [
+      ""Alzua, A., J. O\u2019Leary, and A. Morrison. (1998). \u201cCultural and Heritage Tourism: Identifying Niches for International Travelers.\u201d The Journal of Travel and Tourism Studies, 9 (2):2\u201313."", 
+      ""Ashworth G. (1991). \u201cProducts, places and promotion: destination images in the analysis of the tourism industry\u201d. In The Tourism Industry: an International Analysis, ed. M.T. Sinclair and M. Stabler, 121-142. Wallingford: CAB International."", 
+      ""Ashworth, G. and Tunbridge. (1990). The Tourist-Historic City. London: Belhaven."", 
+      ""Balcar, M., and D. Pearce. (1996). \u201cHeritage Tourism on the West Coast of New Zealand.\u201d Tourism Management, 17:203\u2013212"", 
+      ""Bennett, M. (1995). \u201cHeritage Marketing: The Role of Information Technology.\u201d Journal of Vacation Marketing, 3:272\u2013280."", 
+      ""Boniface, P. and P. Fowler. (1993). Heritage and Tourism in The Global Village. London: Routledge."", 
+      ""Budiono. (2014). \u201cKepariwisataan Butuh Perbaikan\u201d. www.republika.co.id (October 10)."", 
+      ""Cheung, S. (1999). \u201cThe Meanings of a Heritage Trail in Hong Kong.\u201d Annals of Tourism Research, 26:570\u2013588."", 
+      ""Christou, E. and Turp, K. (2005). Heritage & Cultural Tourism. Thessaloniki: Alpha Publications."", 
+      ""Clarke, J. (1999). \u201cMarketing Structures for Farm Tourism: Beyond the Individual Provider of Rural Tourism.\u201d Journal of Sustainable Tourism, 7:26\u201347."", 
+      ""Conlin, J. (2001). \u201cThe Art of Dining.\u201d The Times (August 13): 52\u201353"", 
+      ""Crang, M. (1996). \u201cMagic Kingdom or a Quixotic Quest for Authenticity ?.\u201d Annals of Tourism Research, 23:415\u2013431."", 
+      ""East, P. (1996). \u201cHimalayan Tourism: Working Out Ways Forward\u201d. Journal of Sustainable Tourism, 5:333\u2013336."", 
+      ""Ekajati, Edi S. (2005). Kebudayaan Sunda Jaman Pajajaran. Yayasan Cipta Loka Caraka."", 
+      ""Garrod, B., and A. Fyall. (2001). \u201cHeritage Tourism: A Question of Definition.\u201d Annals of Tourism Research, 28:682\u2013708."", 
+      ""Glen, M. (1991). \u201cIf in Doubt Call it Heritage ?.\u201c In Tourism Resources: Issues, Planning and Development, D. McDowell and D. Leslie, eds., 73\u201385. Jordanstown: University of Ulster."", 
+      ""Graham, B., Ashworth, G. J. &Tunbridge, J. E. (2000). A Geography of Heritage: Power, Culture, and Economy. London: Arnold."", 
+      ""Hall, C. M. and Page S. (2006). The Geography of Tourism and Recreation: Environment, Place and Space. London : Routledge."", 
+      ""Hall, C. (2000). \u201cTourism and The Establishment of National Parks in Australia.\u201d In Tourism and National Parks, R. Butler and S. Boyd, eds., 29\u201338. Chichester: Wiley."", 
+      ""Hall, P. (1998). Cities in Civilisation. London: Weidenfield and Nicolson."", 
+      ""Herbert, D. (1995). \u201cHeritage Places, Leisure and Tourism.\u201d In Heritage, Tourism and Society, D. Herbert, ed., 1\u201320. New York: Mansell."", 
+      ""Hewison, R. (1987). The Heritage Industry: Britain in a Climate of Decline. London: Methu- en."", 
+      ""Huang, Songshan, and Cathy H.C. Hsu. (2008). \u201cRecent Tourism and Hospitality Research in China.\u201d International Journal of Hospitality and Tourism Administration, 9 (3): 267-287."", 
+      ""Jokowi. (2014). \u201cKunjungi Kota Udang: Harus Ada Integrasi Pariwisata Cirebon dengan Bandung.\u201d www.rimanews.com, (June 19, 2014)."", 
+      ""Kartiman, Dana (2014). \u201cPotensi Wisata Kota Cirebon Kurang Perhatian\u201d. www.cirebontrust.com, (September 18, 2014)"", 
+      ""Kirshenblatt and Gimblett, B. (1998). Destination Culture:Tourism, Museums, and Heritage. Berkeley: University of California Press."", 
+      ""Kotler, P, Bowen, J and Makens, J. (1999). Marketing for Hospitality and Tourism. NewJersey: Prentice-Hall."", 
+      ""Laws, E. (1998). \u201cConceptualizing Visitor Satisfaction Management in Heritage Settings: An Exploratory Blueprinting Analysis of Leeds Castle, Kent.\u201d Tourism Management, 19:545\u2013554."", 
+      ""Natadiningrat, Arief. (2014). \u201cPelestarian Keraton, Wisata Sejarah, Wisata Ziarah, dan Pengembangan Ekowisata Wilayah Cirebon di Grage Hotel Cirebon\u201d. www.republika.co.id., (November 13, 2014)."", 
+      ""Natadiningrat, Arief. (2014). \u201cCirebon Memang Sangat Potensial Jadi Kota Kreatif.\u201d www.traveltextonline.com., (Pebruari 20, 2014)."", 
+      ""Nuryanti, W. (1996). \u201cHeritage and Postmodern Tourism.\u201d Annals of Tourism Research, 23: 249\u2013260"", 
+      ""Palmer, C. (1999). \u201cTourism and The Symbols of Identity.\u201d Tourism Management, 20:313\u2013322."", 
+      ""Pangestu, Mari Elka. (2014). \u201cAgar Keraton Tetap Menjadi Episentrum Kebudayaan.\u201d www.pikiran-rakyat.com, (August 28, 2014)."", 
+      ""Picard, M. (1996). Bali: Cultural Tourism and Touristic Culture. Singapore: Archipelago Press."", 
+      ""Pitana, I.G. dan Diarta. (2009). Pengantar Ilmu Pariwisata. Yogyakarta: Penerbit Andi."", 
+      ""Pitana, I.G. dan Gayatri, PG. (2005). Sosiologi Pariwisata. Yogyakarta: Penerbit Andi."", 
+      ""Poriais, Yaniev, et.al. (2001a). \u201cClarifying Heritage Tourism.\u201d Ph.D. Dissertation in Tourism. University of Surrey."", 
+      ""Poriais, Yaniev, Richard Butler and David Airey. (2003). The Core of Heritage Tourism. University of Surrey, UK, 2003."", 
+      ""Poriais, Yaniev, Richard Butler, and David Airey. (2001a). \u201cClarifying Heritage Tourism: A Comment.\u201d Annals of Tourism Research, 28:1047\u20131049."", 
+      ""Poriais, Yaniev, Richard Butler, and David Airey. (2001b). \u201cTourism Sub Groups: Do They Exist ?.\u201d Tourism Today , 1:14\u201322."", 
+      ""Poriais, Yaniev, Richard Butler, and David Airey. (2002). \u201cRevisiting Mieczkowski\u2019s Conceptualisation of Tourism.\u201d Tourism Geographies."", 
+      ""Poriais, Yaniev, Richard Butler, and David Airey. (2003). \u201cThe Core of Heritage Tourism.\u201d Annals of Tourism Research, 30 (1): 238\u2013254. Britain: Elsevier Science, Ltd."", 
+      ""Poriais, Yaniev. (2001b). \u201cThe Show Must Not Go On.\u201d Tourism and Hospitality Research, 3:115\u2013 119."", 
+      ""Poriais, Yaniev. (2001c). \u201cChallenging the Present Approach to Heritage Tourism.\u201d Tourism Review, 56:51\u201353."", 
+      ""Prentice, R., S. Witt, and C. Hamer. (1996). \u201cTourism as Experience: The Case of Heritage Parks.\u201d Annals of Tourism Research, 25:1\u201324"", 
+      ""Richards, G. (1996). \u201cProduction and Consumption of European Cultural Tourism.\u201d Annals of Tourism Research."", 
+      ""Robinson, Mike and Marina Novelli. (2005). \u201cNiche Tourism: an Introduction.\u201d Journal Niche Tourism: Contemporary Issues, Trends And Cases. Elsevier Butterworth-Heinemann."", 
+      ""Shackley, M. (2001). Managing Sacred Sites. London: Continuum."", 
+      ""Silberberg, T. (1995). \u201cCultural tourism and business opportunities for museums and heritage sites.\u201d Tourism Management, 16 (5): 361-365"", 
+      ""Smith M. K. (2006b). Tourism, Culture and Regeneration. Wallingford; Cambridge, MA: CABI."", 
+      ""Smith M. K., ed. (2006). Tourism, Culture and Regeneration. Wallingford: Cambridge, MA : CABI."", 
+      ""Sonjaya. (2014). \u201cTrusmi Akan Ditata Menjadi Sentra Wisata Kuliner Kabupaten Cirebon.\u201d www.pikiran-rakyat.com, (September 1, 2014)."", 
+      ""Swarbrooke, J. (1994). \u201cThe Future of the Past: Heritage Tourism into the 21st Century.\u201d In Tourism the State of the Art, A. Seaton, ed., 222\u2013229. Chichester: Wiley."", 
+      ""Swarbrooke, J. (1996). \u201cUnderstanding the Tourist: Some Thoughts on Consumer Behaviour Research in Tourism.\u201d Insights, 8:A67\u2013A76"", 
+      ""Teo, P. and B. Yeoh. (1995). \u201cRemaking Local Heritage for Tourism.\u201d Annals of Tourism Research, 24:192\u2013213."", 
+      ""Timothy, D. J. (1997). \u201cTourism and the Personal Heritage Experience.\u201d Annals of Tourism Research, 24 (3), 751\u2013754"", 
+      ""Timothy, D. J. and Stephen W.Boyd. (2003). Heritage Tourism. UK: Prentice Hall."", 
+      ""Tome Pires (1512\u20131515). (2005). \""The Suma Oriental of Tome Pires: An Account of the East, from Red Sea to China\"". Armando Cortes\u00e3o. New Delhi: Asian Educational Services."", 
+      ""Urry, J. (1990). The Tourist Gaze. London: Sage."", 
+      ""Utama Rai, I Gusti Bagus. (2006). \u201cMewujudkan Pembangunan Bali Berkesinambungan.\u201d Bali Post, (Oktober 12, 2006)."", 
+      ""Vukonic B. (1996). Tourism and Religion. Oxford: Pergamon"", 
+      ""Weiler, Betty and Colin Michael Hall. (1992). Special Interest Tourism. Belhaven Press."", 
+      ""Yale, P. (1997). From Tourist Attraction to Heritage Tourism. Huntingdon: ELM Publications.""
+    ], 
+    ""notes"": ""Available at SSRN: https://ssrn.com/abstract=2797932;\nAvailable at MPRA Paper No. 70145: https://ideas.repec.org/p/pra/mprapa/70145.html"", 
+    ""keywords"": [
+      ""Religious"", 
+      ""Heritage"", 
+      ""Tourism"", 
+      ""Creative economy"", 
+      ""Local tourism""
+    ], 
+    ""publication_date"": ""2016-03-18"", 
+    ""creators"": [
+      {
+        ""affiliation"": ""IAIN Syekh Nurjati Cirebon"", 
+        ""name"": ""Jaelani, Aan""
+      }, 
+      {
+        ""affiliation"": ""IAIN Syekh Nurjati Cirebon"", 
+        ""name"": ""Setyawan, Edy""
+      }, 
+      {
+        ""affiliation"": ""IAIN Syekh Nurjati Cirebon"", 
+        ""name"": ""Hasyim, Nursyamsudin""
+      }
+    ], 
+    ""subjects"": [
+      {
+        ""term"": ""L67: Other Consumer Nondurables: Clothing, Textiles, Shoes, and Leather Goods; Household Goods; Sports Equipment"", 
+        ""scheme"": ""url"", 
+        ""identifier"": ""https://papers.ssrn.com/sol3/displayjel.cfm""
+      }, 
+      {
+        ""term"": ""L83: Sports; Gambling; Restaurants; Recreation; Tourism"", 
+        ""scheme"": ""url"", 
+        ""identifier"": ""https://papers.ssrn.com/sol3/displayjel.cfm""
+      }, 
+      {
+        ""term"": ""Q24:  Land"", 
+        ""scheme"": ""url"", 
+        ""identifier"": ""https://papers.ssrn.com/sol3/displayjel.cfm""
+      }, 
+      {
+        ""term"": ""Q26: Recreational Aspects of Natural Resources"", 
+        ""scheme"": ""url"", 
+        ""identifier"": ""https://papers.ssrn.com/sol3/displayjel.cfm""
+      }, 
+      {
+        ""term"": ""Z12: Religion"", 
+        ""scheme"": ""url"", 
+        ""identifier"": ""https://papers.ssrn.com/sol3/displayjel.cfm""
+      }, 
+      {
+        ""term"": ""Z32: Tourism and Development"", 
+        ""scheme"": ""url"", 
+        ""identifier"": ""https://papers.ssrn.com/sol3/displayjel.cfm""
+      }
+    ], 
+    ""resource_type"": {
+      ""subtype"": ""article"", 
+      ""type"": ""publication"", 
+      ""title"": ""Journal article""
+    }, 
+    ""related_identifiers"": [
+      {
+        ""scheme"": ""handle"", 
+        ""relation"": ""isCitedBy"", 
+        ""identifier"": ""JSAS: http://dx.doi.org/10.1453/jsas.v3i1.702""
+      }, 
+      {
+        ""scheme"": ""handle"", 
+        ""relation"": ""isReferencedBy"", 
+        ""identifier"": ""SSRN: https://ssrn.com/abstract=2797932""
+      }
+    ]
+  }
+}"
+"
+
+10.5281/zenodo.59196
+
+","{
+  ""files"": [
+    {
+      ""links"": {
+        ""self"": ""https://zenodo.org/api/files/fe795e0e-96cd-4974-95bc-ca7307cc9d68/ComputationalPaper.pdf""
+      }, 
+      ""checksum"": ""md5:72bd3dd1057ec0844cb4e50e3487a541"", 
+      ""bucket"": ""fe795e0e-96cd-4974-95bc-ca7307cc9d68"", 
+      ""key"": ""ComputationalPaper.pdf"", 
+      ""type"": ""pdf"", 
+      ""size"": 644513
+    }
+  ], 
+  ""owners"": [
+    20386
+  ], 
+  ""doi"": ""10.5281/zenodo.59197"", 
+  ""stats"": {
+    ""version_unique_downloads"": 6.0, 
+    ""unique_views"": 7.0, 
+    ""views"": 7.0, 
+    ""downloads"": 7.0, 
+    ""unique_downloads"": 6.0, 
+    ""version_unique_views"": 7.0, 
+    ""volume"": 4511591.0, 
+    ""version_downloads"": 7.0, 
+    ""version_views"": 7.0, 
+    ""version_volume"": 4511591.0
+  }, 
+  ""links"": {
+    ""doi"": ""https://doi.org/10.5281/zenodo.59197"", 
+    ""latest_html"": ""https://zenodo.org/record/59197"", 
+    ""bucket"": ""https://zenodo.org/api/files/fe795e0e-96cd-4974-95bc-ca7307cc9d68"", 
+    ""badge"": ""https://zenodo.org/badge/doi/10.5281/zenodo.59197.svg"", 
+    ""html"": ""https://zenodo.org/record/59197"", 
+    ""latest"": ""https://zenodo.org/api/records/59197""
+  }, 
+  ""created"": ""2016-08-01T09:58:50+00:00"", 
+  ""updated"": ""2017-09-06T07:07:32.250425+00:00"", 
+  ""conceptrecid"": ""639579"", 
+  ""revision"": 7, 
+  ""id"": 59197, 
+  ""metadata"": {
+    ""access_right_category"": ""success"", 
+    ""doi"": ""10.5281/zenodo.59197"", 
+    ""description"": ""<p>We construct the first algorithm for the perfect foresight solution of otherwise linear models with occasionally binding constraints, with fixed terminal conditions, that is guaranteed to return a solution in finite time, if one exists. We also provide a proof of the inescapability of the &ldquo;curse of dimensionality&rdquo; for this problem when nothing is known a priori about the model. We go on to extend our algorithm to deal with stochastic simulation, other non-linearities, and future uncertainty. We show that the resulting algorithm produces fast and accurate simulations of a range of models with occasionally binding constraints.</p>"", 
+    ""license"": {
+      ""id"": ""CC-BY-4.0""
+    }, 
+    ""title"": ""Computation of solutions to dynamic models with occasionally binding constraints."", 
+    ""notes"": ""C61\nC63\nE3\nE4\nE5"", 
+    ""relations"": {
+      ""version"": [
+        {
+          ""count"": 1, 
+          ""index"": 0, 
+          ""parent"": {
+            ""pid_type"": ""recid"", 
+            ""pid_value"": ""639579""
+          }, 
+          ""is_last"": true, 
+          ""last_child"": {
+            ""pid_type"": ""recid"", 
+            ""pid_value"": ""59197""
+          }
+        }
+      ]
+    }, 
+    ""communities"": [
+      {
+        ""id"": ""economics""
+      }
+    ], 
+    ""keywords"": [
+      ""occasionally binding constraints"", 
+      ""zero lower bound"", 
+      ""computation"", 
+      ""DSGE"", 
+      ""linear complementarity problem""
+    ], 
+    ""publication_date"": ""2016-07-31"", 
+    ""creators"": [
+      {
+        ""affiliation"": ""University of Surrey"", 
+        ""name"": ""Holden, Tom D.""
+      }
+    ], 
+    ""access_right"": ""open"", 
+    ""resource_type"": {
+      ""subtype"": ""workingpaper"", 
+      ""type"": ""publication"", 
+      ""title"": ""Working paper""
+    }, 
+    ""related_identifiers"": [
+      {
+        ""scheme"": ""doi"", 
+        ""relation"": ""isNewVersionOf"", 
+        ""identifier"": ""10.5281/zenodo.49051""
+      }
+    ]
+  }
+}"
+"
+
+10.5281/zenodo.49051
+
+","{
+  ""files"": [
+    {
+      ""links"": {
+        ""self"": ""https://zenodo.org/api/files/047b76a0-7440-4fc7-b169-8502f93eea16/ComputationalPaper.pdf""
+      }, 
+      ""checksum"": ""md5:54e415adfc40810ef1261464ab46c468"", 
+      ""bucket"": ""047b76a0-7440-4fc7-b169-8502f93eea16"", 
+      ""key"": ""ComputationalPaper.pdf"", 
+      ""type"": ""pdf"", 
+      ""size"": 642924
+    }
+  ], 
+  ""owners"": [
+    20386
+  ], 
+  ""doi"": ""10.5281/zenodo.49051"", 
+  ""stats"": {
+    ""version_unique_downloads"": 31.0, 
+    ""unique_views"": 3.0, 
+    ""views"": 3.0, 
+    ""downloads"": 32.0, 
+    ""unique_downloads"": 31.0, 
+    ""version_unique_views"": 3.0, 
+    ""volume"": 20573568.0, 
+    ""version_downloads"": 32.0, 
+    ""version_views"": 3.0, 
+    ""version_volume"": 20573568.0
+  }, 
+  ""links"": {
+    ""doi"": ""https://doi.org/10.5281/zenodo.49051"", 
+    ""latest_html"": ""https://zenodo.org/record/49051"", 
+    ""bucket"": ""https://zenodo.org/api/files/047b76a0-7440-4fc7-b169-8502f93eea16"", 
+    ""badge"": ""https://zenodo.org/badge/doi/10.5281/zenodo.49051.svg"", 
+    ""html"": ""https://zenodo.org/record/49051"", 
+    ""latest"": ""https://zenodo.org/api/records/49051""
+  }, 
+  ""created"": ""2016-08-01T09:28:31+00:00"", 
+  ""updated"": ""2019-04-10T03:44:27.659717+00:00"", 
+  ""conceptrecid"": ""631938"", 
+  ""revision"": 9, 
+  ""id"": 49051, 
+  ""metadata"": {
+    ""access_right_category"": ""success"", 
+    ""doi"": ""10.5281/zenodo.49051"", 
+    ""description"": ""<p>This version is out of date. Please see the latest version here: https://zenodo.org/record/59197</p>"", 
+    ""license"": {
+      ""id"": ""CC-BY-4.0""
+    }, 
+    ""title"": ""Old version of: Computation of solutions to dynamic models with occasionally binding constraints."", 
+    ""notes"": ""C61\nC63\nE3\nE4\nE5"", 
+    ""relations"": {
+      ""version"": [
+        {
+          ""count"": 1, 
+          ""index"": 0, 
+          ""parent"": {
+            ""pid_type"": ""recid"", 
+            ""pid_value"": ""631938""
+          }, 
+          ""is_last"": true, 
+          ""last_child"": {
+            ""pid_type"": ""recid"", 
+            ""pid_value"": ""49051""
+          }
+        }
+      ]
+    }, 
+    ""communities"": [
+      {
+        ""id"": ""economics""
+      }
+    ], 
+    ""keywords"": [
+      ""occasionally binding constraints"", 
+      ""zero lower bound"", 
+      ""computation"", 
+      ""DSGE"", 
+      ""linear complementarity problem""
+    ], 
+    ""publication_date"": ""2016-04-05"", 
+    ""creators"": [
+      {
+        ""affiliation"": ""University of Surrey"", 
+        ""name"": ""Holden, Tom D.""
+      }
+    ], 
+    ""access_right"": ""open"", 
+    ""resource_type"": {
+      ""subtype"": ""workingpaper"", 
+      ""type"": ""publication"", 
+      ""title"": ""Working paper""
+    }, 
+    ""related_identifiers"": [
+      {
+        ""scheme"": ""handle"", 
+        ""relation"": ""isIdenticalTo"", 
+        ""identifier"": "" http://hdl.handle.net/10419/130143""
+      }
+    ]
+  }
+}"
+"
+
+10.5281/zenodo.49049
+
+","{
+  ""files"": [
+    {
+      ""links"": {
+        ""self"": ""https://zenodo.org/api/files/326a0cf7-b97a-497e-be6e-b835895f3a6a/TheoryPaper.pdf""
+      }, 
+      ""checksum"": ""md5:3c78a26edee620d2c052f83c725755d6"", 
+      ""bucket"": ""326a0cf7-b97a-497e-be6e-b835895f3a6a"", 
+      ""key"": ""TheoryPaper.pdf"", 
+      ""type"": ""pdf"", 
+      ""size"": 439028
+    }
+  ], 
+  ""owners"": [
+    20386
+  ], 
+  ""doi"": ""10.5281/zenodo.49049"", 
+  ""stats"": {
+    ""version_unique_downloads"": 1.0, 
+    ""unique_views"": 2.0, 
+    ""views"": 2.0, 
+    ""downloads"": 1.0, 
+    ""unique_downloads"": 1.0, 
+    ""version_unique_views"": 2.0, 
+    ""volume"": 439028.0, 
+    ""version_downloads"": 1.0, 
+    ""version_views"": 2.0, 
+    ""version_volume"": 439028.0
+  }, 
+  ""links"": {
+    ""doi"": ""https://doi.org/10.5281/zenodo.49049"", 
+    ""latest_html"": ""https://zenodo.org/record/49049"", 
+    ""bucket"": ""https://zenodo.org/api/files/326a0cf7-b97a-497e-be6e-b835895f3a6a"", 
+    ""badge"": ""https://zenodo.org/badge/doi/10.5281/zenodo.49049.svg"", 
+    ""html"": ""https://zenodo.org/record/49049"", 
+    ""latest"": ""https://zenodo.org/api/records/49049""
+  }, 
+  ""created"": ""2016-08-01T09:22:40+00:00"", 
+  ""updated"": ""2017-09-06T07:02:55.716532+00:00"", 
+  ""conceptrecid"": ""631991"", 
+  ""revision"": 7, 
+  ""id"": 49049, 
+  ""metadata"": {
+    ""access_right_category"": ""success"", 
+    ""doi"": ""10.5281/zenodo.49049"", 
+    ""description"": ""<p>This version is out of date. Please see the latest version here: https://zenodo.org/record/59196</p>"", 
+    ""license"": {
+      ""id"": ""CC-BY-4.0""
+    }, 
+    ""title"": ""Old version of: Existence and uniqueness of solutions to dynamic models with occasionally binding constraints."", 
+    ""notes"": ""C62\nE3\nE4\nE5"", 
+    ""relations"": {
+      ""version"": [
+        {
+          ""count"": 1, 
+          ""index"": 0, 
+          ""parent"": {
+            ""pid_type"": ""recid"", 
+            ""pid_value"": ""631991""
+          }, 
+          ""is_last"": true, 
+          ""last_child"": {
+            ""pid_type"": ""recid"", 
+            ""pid_value"": ""49049""
+          }
+        }
+      ]
+    }, 
+    ""communities"": [
+      {
+        ""id"": ""economics""
+      }
+    ], 
+    ""keywords"": [
+      ""occasionally binding constraints"", 
+      ""zero lower bound"", 
+      ""existence"", 
+      ""uniqueness"", 
+      ""price targeting"", 
+      ""Taylor principle"", 
+      ""linear complementarity problem""
+    ], 
+    ""publication_date"": ""2016-04-05"", 
+    ""creators"": [
+      {
+        ""affiliation"": ""University of Surrey"", 
+        ""name"": ""Holden, Tom D.""
+      }
+    ], 
+    ""access_right"": ""open"", 
+    ""resource_type"": {
+      ""subtype"": ""workingpaper"", 
+      ""type"": ""publication"", 
+      ""title"": ""Working paper""
+    }, 
+    ""related_identifiers"": [
+      {
+        ""scheme"": ""handle"", 
+        ""relation"": ""isIdenticalTo"", 
+        ""identifier"": ""10419/130142""
+      }
+    ]
+  }
+}"
+"
+
+10.5281/zenodo.54876
+
+","{
+  ""files"": [
+    {
+      ""links"": {
+        ""self"": ""https://zenodo.org/api/files/ca82c692-7727-4dae-b700-56ac3551c746/SciencesPo_1.4.0.tar.gz""
+      }, 
+      ""checksum"": ""md5:82a5f2eef3a1ebcb3122142ab6286656"", 
+      ""bucket"": ""ca82c692-7727-4dae-b700-56ac3551c746"", 
+      ""key"": ""SciencesPo_1.4.0.tar.gz"", 
+      ""type"": ""gz"", 
+      ""size"": 4043895
+    }
+  ], 
+  ""owners"": [
+    5792
+  ], 
+  ""doi"": ""10.5281/zenodo.54876"", 
+  ""stats"": {
+    ""version_unique_downloads"": 0.0, 
+    ""unique_views"": 6.0, 
+    ""views"": 6.0, 
+    ""downloads"": 0.0, 
+    ""unique_downloads"": 0.0, 
+    ""version_unique_views"": 6.0, 
+    ""volume"": 0.0, 
+    ""version_downloads"": 0.0, 
+    ""version_views"": 6.0, 
+    ""version_volume"": 0.0
+  }, 
+  ""links"": {
+    ""doi"": ""https://doi.org/10.5281/zenodo.54876"", 
+    ""latest_html"": ""https://zenodo.org/record/54876"", 
+    ""bucket"": ""https://zenodo.org/api/files/ca82c692-7727-4dae-b700-56ac3551c746"", 
+    ""badge"": ""https://zenodo.org/badge/doi/10.5281/zenodo.54876.svg"", 
+    ""html"": ""https://zenodo.org/record/54876"", 
+    ""latest"": ""https://zenodo.org/api/records/54876""
+  }, 
+  ""created"": ""2016-07-31T18:39:41+00:00"", 
+  ""updated"": ""2017-09-06T07:05:36.559275+00:00"", 
+  ""conceptrecid"": ""636676"", 
+  ""revision"": 9, 
+  ""id"": 54876, 
+  ""metadata"": {
+    ""access_right_category"": ""success"", 
+    ""doi"": ""10.5281/zenodo.54876"", 
+    ""description"": ""<p>Provide functions for analyzing political behavior data, including<br />\nmeasures of political fragmentation, seat apportionment, and options for small&nbsp;data visualization.</p>"", 
+    ""license"": {
+      ""id"": ""GPL-2.0""
+    }, 
+    ""title"": ""SciencesPo: A Tool Set for Analyzing Political Behavior Data"", 
+    ""relations"": {
+      ""version"": [
+        {
+          ""count"": 1, 
+          ""index"": 0, 
+          ""parent"": {
+            ""pid_type"": ""recid"", 
+            ""pid_value"": ""636676""
+          }, 
+          ""is_last"": true, 
+          ""last_child"": {
+            ""pid_type"": ""recid"", 
+            ""pid_value"": ""54876""
+          }
+        }
+      ]
+    }, 
+    ""communities"": [
+      {
+        ""id"": ""economics""
+      }, 
+      {
+        ""id"": ""r-project""
+      }, 
+      {
+        ""id"": ""researchsoftwarestudies""
+      }
+    ], 
+    ""keywords"": [
+      ""R package, political fragmentation, Apportionment ""
+    ], 
+    ""publication_date"": ""2016-06-05"", 
+    ""creators"": [
+      {
+        ""affiliation"": ""IPEA"", 
+        ""name"": ""Marcelino, Daniel""
+      }
+    ], 
+    ""access_right"": ""open"", 
+    ""resource_type"": {
+      ""type"": ""software"", 
+      ""title"": ""Software""
+    }
+  }
+}"
+"
+
+10.5281/zenodo.50127
+
+","{
+  ""files"": [
+    {
+      ""links"": {
+        ""self"": ""https://zenodo.org/api/files/202e7540-9410-47ab-89cb-c3f2e1a0fe0f/EstimationPaper.pdf""
+      }, 
+      ""checksum"": ""md5:f3ef39f00f61b637a4104c622f1e46f3"", 
+      ""bucket"": ""202e7540-9410-47ab-89cb-c3f2e1a0fe0f"", 
+      ""key"": ""EstimationPaper.pdf"", 
+      ""type"": ""pdf"", 
+      ""size"": 188456
+    }
+  ], 
+  ""owners"": [
+    20386
+  ], 
+  ""doi"": ""10.5281/zenodo.50127"", 
+  ""stats"": {
+    ""version_unique_downloads"": 62.0, 
+    ""unique_views"": 44.0, 
+    ""views"": 45.0, 
+    ""downloads"": 64.0, 
+    ""unique_downloads"": 62.0, 
+    ""version_unique_views"": 44.0, 
+    ""volume"": 12061184.0, 
+    ""version_downloads"": 64.0, 
+    ""version_views"": 45.0, 
+    ""version_volume"": 12061184.0
+  }, 
+  ""links"": {
+    ""doi"": ""https://doi.org/10.5281/zenodo.50127"", 
+    ""latest_html"": ""https://zenodo.org/record/50127"", 
+    ""bucket"": ""https://zenodo.org/api/files/202e7540-9410-47ab-89cb-c3f2e1a0fe0f"", 
+    ""badge"": ""https://zenodo.org/badge/doi/10.5281/zenodo.50127.svg"", 
+    ""html"": ""https://zenodo.org/record/50127"", 
+    ""latest"": ""https://zenodo.org/api/records/50127""
+  }, 
+  ""created"": ""2016-05-18T15:17:46+00:00"", 
+  ""updated"": ""2019-04-10T03:44:40.049718+00:00"", 
+  ""conceptrecid"": ""632677"", 
+  ""revision"": 8, 
+  ""id"": 50127, 
+  ""metadata"": {
+    ""access_right_category"": ""success"", 
+    ""doi"": ""10.5281/zenodo.50127"", 
+    ""description"": ""<p>We present an algorithm for estimating non-linear dynamic models, including those featuring occasionally binding constraints. The algorithm extends the Cubature Kalman Filter of Arasaratnam and Haykin (2009) with dynamic state space reduction, to give adequate speed in the presence of occasionally binding constraints, and to ensure that it can handle the large state spaces generated by pruned perturbation solutions to medium-scale DSGE models. We further extend the base algorithm to allow for alternative cubature procedures to improve the tracking of non-linearities. The algorithm relies on the solution method for models with occasionally binding constraints of Holden (2016b). We illustrate that the method can solve some of the identification problems that plague linearized DSGE models.</p>"", 
+    ""license"": {
+      ""id"": ""CC-BY-4.0""
+    }, 
+    ""title"": ""Estimation of dynamic models with occasionally binding constraints."", 
+    ""notes"": ""C13, C32, E3, E4, E5"", 
+    ""relations"": {
+      ""version"": [
+        {
+          ""count"": 1, 
+          ""index"": 0, 
+          ""parent"": {
+            ""pid_type"": ""recid"", 
+            ""pid_value"": ""632677""
+          }, 
+          ""is_last"": true, 
+          ""last_child"": {
+            ""pid_type"": ""recid"", 
+            ""pid_value"": ""50127""
+          }
+        }
+      ]
+    }, 
+    ""communities"": [
+      {
+        ""id"": ""economics""
+      }, 
+      {
+        ""id"": ""ecfunded""
+      }
+    ], 
+    ""grants"": [
+      {
+        ""code"": ""612796"", 
+        ""links"": {
+          ""self"": ""https://zenodo.org/api/grants/10.13039/501100000780::612796""
+        }, 
+        ""title"": ""Integrated Macro-Financial Modelling for Robust Policy Design"", 
+        ""acronym"": ""MACFINROBODS"", 
+        ""program"": ""FP7"", 
+        ""funder"": {
+          ""doi"": ""10.13039/501100000780"", 
+          ""acronyms"": [
+            ""EC""
+          ], 
+          ""name"": ""European Commission"", 
+          ""links"": {
+            ""self"": ""https://zenodo.org/api/funders/10.13039/501100000780""
+          }
+        }
+      }
+    ], 
+    ""keywords"": [
+      ""occasionally binding constraints"", 
+      ""zero lower bound"", 
+      ""estimation"", 
+      ""DSGE"", 
+      ""cubature Kalman filter""
+    ], 
+    ""publication_date"": ""2016-04-20"", 
+    ""creators"": [
+      {
+        ""affiliation"": ""University of Surrey"", 
+        ""name"": ""Holden, Tom D.""
+      }
+    ], 
+    ""access_right"": ""open"", 
+    ""resource_type"": {
+      ""subtype"": ""workingpaper"", 
+      ""type"": ""publication"", 
+      ""title"": ""Working paper""
+    }
+  }
+}"
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
