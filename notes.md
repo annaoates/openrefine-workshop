@@ -93,3 +93,5 @@ Let's look at facets a little more ...
 # List of Resources
 * OpenRefine Faceting https://github.com/OpenRefine/OpenRefine/wiki/Faceting
 * OpenRefine Clustering In Depth https://github.com/OpenRefine/OpenRefine/wiki/Clustering-In-Depth
+* Refine API: htps://github.com/maxogden/refine-python/wiki/Refine-API
+* OpenRefine Python Client Library https://github.com/PaulMakepeace/refine-client-py
